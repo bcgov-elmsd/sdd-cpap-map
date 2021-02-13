@@ -149,7 +149,11 @@ var runLayer = omnivore.kml("/kml/pins.kml")
       //Assign icon based on style URL
       //STYLE URL is a property of the KML
         if (layer instanceof L.Marker){
-            layer.setIcon(servicesIcon);
+            if (layer.feature.properties.storefront === "ME"){
+              layer.setIcon(meIcon)
+            } else {
+              layer.setIcon(servicesIcon)
+            }
         }
         console.log(layer.feature.properties)
       //Add the features we want to the popup

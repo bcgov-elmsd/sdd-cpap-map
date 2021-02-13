@@ -25,6 +25,9 @@
 				<Data name="email">
 					<value>penticton@avantsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.58386734401113, 49.48031300397703</coordinates>
@@ -50,6 +53,9 @@
 				</Data>
 				<Data name="email">
 					<value>princegeorge@avantsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -77,6 +83,9 @@
 				<Data name="email">
 					<value>vancouver@avantsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.9555075305247, 49.2189229269405</coordinates>
@@ -102,6 +111,9 @@
 				</Data>
 				<Data name="email">
 					<value>vancouver@avantsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -129,6 +141,9 @@
 				<Data name="email">
 					<value>vancouver@avantsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.09828015750904, 49.31999474789233</coordinates>
@@ -154,6 +169,9 @@
 				</Data>
 				<Data name="email">
 					<value>vancouver@avantsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -181,6 +199,9 @@
 				<Data name="email">
 					<value>victoria@avantsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.497659415203, 48.447763641715355</coordinates>
@@ -206,6 +227,9 @@
 				</Data>
 				<Data name="email">
 					<value>campbellriver@avantsleep.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -233,6 +257,9 @@
 				<Data name="email">
 					<value>info@baysidesleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.8190398998436, 49.10473592595971</coordinates>
@@ -258,6 +285,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@cansleep.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -285,6 +315,9 @@
 				<Data name="email">
 					<value>info@cansleep.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79715737285197, 49.28320095101976 </coordinates>
@@ -310,6 +343,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@cansleep.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -337,6 +373,9 @@
 				<Data name="email">
 					<value>info@cansleep.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.89304438634693, 49.22873753244542</coordinates>
@@ -362,6 +401,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@cansleep.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -389,6 +431,9 @@
 				<Data name="email">
 					<value>info@cansleep.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.8097359016899, 49.191433512655074</coordinates>
@@ -414,6 +459,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@cansleep.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -441,6 +489,9 @@
 				<Data name="email">
 					<value>info@cansleep.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.4283396286959, 48.46726076784696</coordinates>
@@ -466,6 +517,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -493,6 +547,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.99178917100483, 49.22569957460792</coordinates>
@@ -518,6 +575,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -545,6 +605,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.52867484415452, 49.407159948622336</coordinates>
@@ -570,6 +633,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -597,6 +663,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.07058165579897, 49.32036056008144</coordinates>
@@ -622,6 +691,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -649,6 +721,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.75530750182374, 49.47872540530808</coordinates>
@@ -674,6 +749,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -701,6 +779,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.80131662858459, 49.02856577794108</coordinates>
@@ -726,6 +807,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -753,6 +837,9 @@
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.15994208624863, 49.328981651860126</coordinates>
@@ -778,6 +865,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@clincialsleep.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -805,6 +895,9 @@
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.30575264578044, 49.04976170422379</coordinates>
@@ -830,6 +923,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -857,6 +953,9 @@
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.60622111509096, 49.09083067167674</coordinates>
@@ -882,6 +981,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -909,6 +1011,9 @@
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.14188968625284, 49.1701081996128</coordinates>
@@ -934,6 +1039,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -961,6 +1069,9 @@
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.11666988625035, 49.263092610940994</coordinates>
@@ -986,6 +1097,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@coastalsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1013,6 +1127,9 @@
 				<Data name="email">
 					<value>columbia.respiratory@gmail.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-125.24130905924655, 50.00732611855608</coordinates>
@@ -1038,6 +1155,9 @@
 				</Data>
 				<Data name="email">
 					<value>columbia.respiratory@gmail.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Clinic</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1065,6 +1185,9 @@
 				<Data name="email">
 					<value>columbia.respiratory@gmail.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Clinic</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.98927772858029, 49.19033843942462</coordinates>
@@ -1090,6 +1213,9 @@
 				</Data>
 				<Data name="email">
 					<value>columbia.respiratory@gmail.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Clinic</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1117,6 +1243,9 @@
 				<Data name="email">
 					<value>columbia.respiratory@gmail.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Clinic</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.44732875925004, 49.87776888501178</coordinates>
@@ -1142,6 +1271,9 @@
 				</Data>
 				<Data name="email">
 					<value>asleep@customsleepcare.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Mobile</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1169,6 +1301,9 @@
 				<Data name="email">
 					<value>info@pacificsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.26518500156688, 50.28499370926332</coordinates>
@@ -1194,6 +1329,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@pacificsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1221,6 +1359,9 @@
 				<Data name="email">
 					<value>info@pacificsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -119.58370310158914, 49.46871256359782</coordinates>
@@ -1246,6 +1387,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@pacificsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1273,6 +1417,9 @@
 				<Data name="email">
 					<value>info@goodsleephealth.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -119.58368164391707, 49.46877531403661</coordinates>
@@ -1298,6 +1445,9 @@
 				</Data>
 				<Data name="email">
 					<value>penticton@goodsleephealth.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1325,6 +1475,9 @@
 				<Data name="email">
 					<value>vernon@goodsleephealth.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.26518500156688, 50.28499370926332</coordinates>
@@ -1350,6 +1503,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1377,6 +1533,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -119.58370310158914, 49.46871256359782</coordinates>
@@ -1402,6 +1561,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1429,6 +1591,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -119.58368164391707, 49.46877531403661</coordinates>
@@ -1454,6 +1619,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1481,6 +1649,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -119.27304208609466, 50.265359318879</coordinates>
@@ -1506,6 +1677,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1533,6 +1707,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.35355864560817, 50.67061217536217</coordinates>
@@ -1558,6 +1735,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1585,6 +1765,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-116.5075667609892, 49.09690155589784</coordinates>
@@ -1610,6 +1793,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1637,6 +1823,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-118.46814918612401, 49.02973710870142</coordinates>
@@ -1662,6 +1851,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1689,6 +1881,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-116.03172493026835, 50.50965404735273</coordinates>
@@ -1714,6 +1909,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1741,6 +1939,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-117.2900705879644, 49.49438965788698</coordinates>
@@ -1766,6 +1967,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1793,6 +1997,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.49980107438711, 52.98165005608473</coordinates>
@@ -1818,6 +2025,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1845,6 +2055,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.29376407263166, 49.04053230864909</coordinates>
@@ -1870,6 +2083,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1897,6 +2113,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.77921074564163, 49.26329001481994</coordinates>
@@ -1922,6 +2141,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -1949,6 +2171,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.60319285913515, 49.2148022962389</coordinates>
@@ -1974,6 +2199,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2001,6 +2229,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.18160175913623, 49.16991024420243</coordinates>
@@ -2026,6 +2257,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2053,6 +2287,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Clinic </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.06935180146783, 49.022468970677345</coordinates>
@@ -2078,6 +2315,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2105,6 +2345,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.11833518796922, 49.285851060310634</coordinates>
@@ -2130,6 +2373,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2157,6 +2403,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.70094634380145, 48.78483617640929</coordinates>
@@ -2182,6 +2431,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2209,6 +2461,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.7988558456422, 49.24650075263256</coordinates>
@@ -2234,6 +2489,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2261,6 +2519,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.3987857014767, 48.64731858696254</coordinates>
@@ -2286,6 +2547,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2313,6 +2577,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-128.65395008600075, 54.0536000429019</coordinates>
@@ -2338,6 +2605,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2365,6 +2635,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates> -127.16983887063842, 54.78164054018</coordinates>
@@ -2390,6 +2663,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2417,6 +2693,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.7489699706606, 53.91771266087402</coordinates>
@@ -2442,6 +2721,9 @@
 				</Data>
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2469,6 +2751,9 @@
 				<Data name="email">
 					<value>qa@irscanada.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.84789001663103, 56.241736371341524</coordinates>
@@ -2494,6 +2779,9 @@
 				</Data>
 				<Data name="email">
 					<value>contact@inspiresleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2521,6 +2809,9 @@
 				<Data name="email">
 					<value>info@islandcpap.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.05017833197647, 49.23392296297173</coordinates>
@@ -2546,6 +2837,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@islandcpap.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2573,6 +2867,9 @@
 				<Data name="email">
 					<value>info@islandcpap.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Clinic</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-125.26134098610028, 50.03163093242182</coordinates>
@@ -2598,6 +2895,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@cansleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2625,6 +2925,9 @@
 				<Data name="email">
 					<value>doug@kootenayrespiratory.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-115.76300913051625, 49.513440638380594</coordinates>
@@ -2650,6 +2953,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepaidclinics.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2677,6 +2983,9 @@
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.32457905751721, 49.05408490810212</coordinates>
@@ -2702,6 +3011,9 @@
 				</Data>
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2729,6 +3041,9 @@
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79677112867407, 49.28261515266174</coordinates>
@@ -2754,6 +3069,9 @@
 				</Data>
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2781,6 +3099,9 @@
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.06970668819851, 49.18224808668062</coordinates>
@@ -2806,6 +3127,9 @@
 				</Data>
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2833,6 +3157,9 @@
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.7338594998435, 49.12082493426585</coordinates>
@@ -2858,6 +3185,9 @@
 				</Data>
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2885,6 +3215,9 @@
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.12562214586721, 49.26327400137523</coordinates>
@@ -2910,6 +3243,9 @@
 				</Data>
 				<Data name="email">
 					<value>ministry@mainlandsleep.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2937,6 +3273,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.27140058259941, 50.68027143045641</coordinates>
@@ -2962,6 +3301,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -2989,6 +3331,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.59137305750271, 49.49602992082226 </coordinates>
@@ -3014,6 +3359,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3041,6 +3389,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-115.76300340184775, 49.51956961026069</coordinates>
@@ -3066,6 +3417,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3093,6 +3447,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.6599020306949, 49.16464435753008</coordinates>
@@ -3118,6 +3475,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3145,6 +3505,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.14684842884026, 49.26407141481993</coordinates>
@@ -3170,6 +3533,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3197,6 +3563,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.74585315769102, 48.79233821268148</coordinates>
@@ -3222,6 +3591,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3249,6 +3621,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.3701556137875, 48.443073030520274</coordinates>
@@ -3274,6 +3649,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3301,6 +3679,9 @@
 				<Data name="email">
 					<value>info@medprorespiratory.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.82283410347311, 56.24626455388922</coordinates>
@@ -3326,6 +3707,9 @@
 				</Data>
 				<Data name="email">
 					<value>tracey@okanamed.co</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3353,6 +3737,9 @@
 				<Data name="email">
 					<value>oxylifechilliwack@gmail.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-121.96320290185895, 49.16765286490306</coordinates>
@@ -3378,6 +3765,9 @@
 				</Data>
 				<Data name="email">
 					<value>oxylifebc@gmail.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3405,6 +3795,9 @@
 				<Data name="email">
 					<value>oxylifepg@gmail.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.76307031704641, 53.912705089057354</coordinates>
@@ -3430,6 +3823,9 @@
 				</Data>
 				<Data name="email">
 					<value>victoriasleep@careicahealth.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3457,6 +3853,9 @@
 				<Data name="email">
 					<value>burnabysleep@careicahealth.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.02109074418381, 49.26547269669862</coordinates>
@@ -3482,6 +3881,9 @@
 				</Data>
 				<Data name="email">
 					<value>rhskamloops@rhs.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3509,6 +3911,9 @@
 				<Data name="email">
 					<value>rhskamloops@rhs.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.77028331717219, 50.122282576831054</coordinates>
@@ -3534,6 +3939,9 @@
 				</Data>
 				<Data name="email">
 					<value>kelowna@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3561,6 +3969,9 @@
 				<Data name="email">
 					<value>kelowna@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.26746943251109, 50.275462558154366</coordinates>
@@ -3586,6 +3997,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3613,6 +4027,9 @@
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.37946268837018, 49.06078976181235</coordinates>
@@ -3638,6 +4055,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3665,6 +4085,9 @@
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79181010000372, 49.27876006557092</coordinates>
@@ -3690,6 +4113,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3717,6 +4143,9 @@
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.60214685952924, 49.21899468005356</coordinates>
@@ -3742,6 +4171,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3769,6 +4201,9 @@
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.13204863254643, 49.171495567571235</coordinates>
@@ -3794,6 +4229,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3821,6 +4259,9 @@
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.11800450185586, 49.26389030986623</coordinates>
@@ -3846,6 +4287,9 @@
 				</Data>
 				<Data name="email">
 					<value>lowermainland@rhs.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3873,6 +4317,9 @@
 				<Data name="email">
 					<value>vancouverisland@rhscanada.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.70838157118337, 48.78599541345408</coordinates>
@@ -3898,6 +4345,9 @@
 				</Data>
 				<Data name="email">
 					<value>vancouverisland@rhscanada.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3925,6 +4375,9 @@
 				<Data name="email">
 					<value>vancouverisland@rhscanada.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.80955097302035, 49.25633082109345</coordinates>
@@ -3950,6 +4403,9 @@
 				</Data>
 				<Data name="email">
 					<value>vancouverisland@rhscanada.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -3977,6 +4433,9 @@
 				<Data name="email">
 					<value>vancouverisland@rhscanada.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.49903018653725, 48.464291533170204</coordinates>
@@ -4002,6 +4461,9 @@
 				</Data>
 				<Data name="email">
 					<value>sleepeasy101@yahoo.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4029,6 +4491,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.00489550185583, 49.26685249963721</coordinates>
@@ -4054,6 +4519,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4081,6 +4549,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79447804603517, 49.27738787030247</coordinates>
@@ -4106,6 +4577,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4133,6 +4607,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.10969473068998, 49.32514550399522</coordinates>
@@ -4158,6 +4635,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4185,6 +4665,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79906953069691, 49.10365457822563</coordinates>
@@ -4210,6 +4693,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4237,6 +4723,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79902028651509, 49.16714039070512</coordinates>
@@ -4262,6 +4751,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4289,6 +4781,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.80271938651714, 49.105640407925435</coordinates>
@@ -4314,6 +4809,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4341,6 +4839,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.8752418576793, 49.1645285972488</coordinates>
@@ -4366,6 +4867,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4393,6 +4897,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.73940140186089, 49.10469513014643</coordinates>
@@ -4418,6 +4925,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4445,6 +4955,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.15339478466137, 49.234016769263114</coordinates>
@@ -4470,6 +4983,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4497,6 +5013,9 @@
 				<Data name="email">
 					<value>info@sleepwm.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.05831045952723, 49.28100166674507</coordinates>
@@ -4522,6 +5041,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@sleepwm.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4549,6 +5071,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.12187361534734, 49.28308145789182</coordinates>
@@ -4574,6 +5099,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4601,6 +5129,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.48795427114985, 49.8406283634362</coordinates>
@@ -4626,6 +5157,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4653,6 +5187,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-115.75664784417573, 49.521602839123496</coordinates>
@@ -4678,6 +5215,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4705,6 +5245,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-121.96122873069488, 49.16811877862878</coordinates>
@@ -4730,6 +5273,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4757,6 +5303,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.60090865767742, 49.2203087686163</coordinates>
@@ -4782,6 +5331,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4809,6 +5361,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.14726497301989, 49.264113713288616</coordinates>
@@ -4834,6 +5389,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4861,6 +5419,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.03477764603686, 49.22521115813144</coordinates>
@@ -4886,6 +5447,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4913,6 +5477,9 @@
 				<Data name="email">
 					<value>info@vancouversleepsolutions.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.79259217101546, 53.90043237074503</coordinates>
@@ -4938,6 +5505,9 @@
 				</Data>
 				<Data name="email">
 					<value>contactus@sleeptech.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -4965,6 +5535,9 @@
 				<Data name="email">
 					<value>contactus@sleeptech.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.29358431535515, 49.03786544786168</coordinates>
@@ -4990,6 +5563,9 @@
 				</Data>
 				<Data name="email">
 					<value>contactus@sleeptech.ca </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5017,6 +5593,9 @@
 				<Data name="email">
 					<value>contactus@sleeptech.ca </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.44698223254088, 49.347919663265984</coordinates>
@@ -5042,6 +5621,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5069,6 +5651,9 @@
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes </value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.83360614418525, 49.22278713812573</coordinates>
@@ -5094,6 +5679,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5121,6 +5709,9 @@
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.7772979171998, 49.26128981267037</coordinates>
@@ -5146,6 +5737,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5173,6 +5767,9 @@
 				<Data name="email">
 					<value>info@westcaremedical.com </value>
 				</Data>
+				<Data name="storefront">
+					<value>Yes</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.139539244184, 49.26543190623928</coordinates>
@@ -5198,6 +5795,9 @@
 				</Data>
 				<Data name="email">
 					<value>infoab@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5225,6 +5825,9 @@
 				<Data name="email">
 					<value>infoabb@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.0099452 , 49.2067476</coordinates>
@@ -5250,6 +5853,9 @@
 				</Data>
 				<Data name="email">
 					<value>infotc@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5277,6 +5883,9 @@
 				<Data name="email">
 					<value>infosry@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.732698 , 49.1226745</coordinates>
@@ -5302,6 +5911,9 @@
 				</Data>
 				<Data name="email">
 					<value>infonv@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5329,6 +5941,9 @@
 				<Data name="email">
 					<value>infovan@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.907001 , 49.2202815</coordinates>
@@ -5354,6 +5969,9 @@
 				</Data>
 				<Data name="email">
 					<value>infopg@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5381,6 +5999,9 @@
 				<Data name="email">
 					<value>infokel@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.4370294 , 49.8870839</coordinates>
@@ -5406,6 +6027,9 @@
 				</Data>
 				<Data name="email">
 					<value>infover@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5433,6 +6057,9 @@
 				<Data name="email">
 					<value>infokam@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-120.2738262 , 50.679978</coordinates>
@@ -5458,6 +6085,9 @@
 				</Data>
 				<Data name="email">
 					<value>infovic@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5485,6 +6115,9 @@
 				<Data name="email">
 					<value>infonan@nsm-seating.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.9772659 , 49.1935277</coordinates>
@@ -5510,6 +6143,9 @@
 				</Data>
 				<Data name="email">
 					<value>vancouver@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5537,6 +6173,9 @@
 				<Data name="email">
 					<value>sidney@motioncares.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.4010325 , 48.6480936</coordinates>
@@ -5562,6 +6201,9 @@
 				</Data>
 				<Data name="email">
 					<value>nanaimo@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5589,6 +6231,9 @@
 				<Data name="email">
 					<value>victoria@motioncares.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.3590296 , 48.4305353</coordinates>
@@ -5614,6 +6259,9 @@
 				</Data>
 				<Data name="email">
 					<value>comox@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5641,6 +6289,9 @@
 				<Data name="email">
 					<value>penticton@motioncares.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.5874301 , 49.4791817</coordinates>
@@ -5666,6 +6317,9 @@
 				</Data>
 				<Data name="email">
 					<value>kelowna@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5693,6 +6347,9 @@
 				<Data name="email">
 					<value>vernon@motioncares.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-119.2793084 , 50.2649986</coordinates>
@@ -5718,6 +6375,9 @@
 				</Data>
 				<Data name="email">
 					<value>trail@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5745,6 +6405,9 @@
 				<Data name="email">
 					<value>victoria@islandmediquip.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.3874461 , 48.4855176</coordinates>
@@ -5770,6 +6433,9 @@
 				</Data>
 				<Data name="email">
 					<value>duncan@islamdmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5797,6 +6463,9 @@
 				<Data name="email">
 					<value>courtenay@islandmediquip.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.4340052 , 48.452831</coordinates>
@@ -5822,6 +6491,9 @@
 				</Data>
 				<Data name="email">
 					<value>nanaimo@islandmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5849,6 +6521,9 @@
 				<Data name="email">
 					<value>campbellriver@islandmediquip.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-118.7842424 , 49.0123141</coordinates>
@@ -5874,6 +6549,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@kchomemedical.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5901,6 +6579,9 @@
 				<Data name="email">
 					<value>info@kchomemedical.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-115.7675567 , 49.5157272</coordinates>
@@ -5926,6 +6607,9 @@
 				</Data>
 				<Data name="email">
 					<value>service@bcmedequip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -5953,6 +6637,9 @@
 				<Data name="email">
 					<value>info@abbeymedicalsupplies.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.3424631 , 49.0481781</coordinates>
@@ -5978,6 +6665,9 @@
 				</Data>
 				<Data name="email">
 					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6005,6 +6695,9 @@
 				<Data name="email">
 					<value>none</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.6861152 , 49.0665545</coordinates>
@@ -6030,6 +6723,9 @@
 				</Data>
 				<Data name="email">
 					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6057,6 +6753,9 @@
 				<Data name="email">
 					<value>info@macdonaldshhc.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.1083554 , 49.265383</coordinates>
@@ -6082,6 +6781,9 @@
 				</Data>
 				<Data name="email">
 					<value>burnaby@macdonaldshhc.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6109,6 +6811,9 @@
 				<Data name="email">
 					<value>office@1stchoicemobility.ca</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.2653765 , 49.0139578</coordinates>
@@ -6134,6 +6839,9 @@
 				</Data>
 				<Data name="email">
 					<value>hal@tricityhomemed.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6161,6 +6869,9 @@
 				<Data name="email">
 					<value>none</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.8846157 , 49.2237769</coordinates>
@@ -6186,6 +6897,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@a-1wheelchairs.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6213,6 +6927,9 @@
 				<Data name="email">
 					<value>bill@regencymed.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.0055636 , 49.2547137</coordinates>
@@ -6238,6 +6955,9 @@
 				</Data>
 				<Data name="email">
 					<value>ortho@davieshh.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6265,6 +6985,9 @@
 				<Data name="email">
 					<value>squamishhc@davieshh.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.1532768 , 49.7237527</coordinates>
@@ -6290,6 +7013,9 @@
 				</Data>
 				<Data name="email">
 					<value>info@therehabshop.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6317,6 +7043,9 @@
 				<Data name="email">
 					<value>info@albernicomfortzone.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-124.7996084 , 49.2322698</coordinates>
@@ -6342,6 +7071,9 @@
 				</Data>
 				<Data name="email">
 					<value>terrace@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
@@ -6369,6 +7101,9 @@
 				<Data name="email">
 					<value>princegeorge@medichair.com</value>
 				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
 			</ExtendedData>
 			<Point>
 				<coordinates>-122.7380333 , 53.9155278</coordinates>
@@ -6394,6 +7129,9 @@
 				</Data>
 				<Data name="email">
 					<value>princegeorge@medichair.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
 				</Data>
 			</ExtendedData>
 			<Point>
