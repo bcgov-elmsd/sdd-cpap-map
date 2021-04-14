@@ -156,13 +156,14 @@ var runLayer = omnivore.kml("/kml/pins-suppliers.kml")
       //THIS HAPPENS WHEN CLICK ON THE PIN
       layer.bindPopup("<h2>"+layer.feature.properties.SupplierName+"</h2><p>" + layer.feature.properties.Address + " , " + layer.feature.properties.city + "</p><p>" + layer.feature.properties.phone + "</p><p>" + layer.feature.properties.email + "</p>");
     });
-  }).addTo(map);
+  })
+  //.addTo(map);
 //Finish KML layer
 
 var medical = omnivore.kml("/kml/pins-me.kml")
   .on('ready',function(){
-    map.fitBounds(runLayer.getBounds());
-    runLayer.eachLayer(function(layer){
+    map.fitBounds(medical.getBounds());
+    medical.eachLayer(function(layer){
       //Assign icon based on style URL
       //STYLE URL is a property of the KML
         if (layer instanceof L.Marker){
@@ -173,7 +174,8 @@ var medical = omnivore.kml("/kml/pins-me.kml")
       //THIS HAPPENS WHEN CLICK ON THE PIN
       layer.bindPopup("<h2>"+layer.feature.properties.SupplierName+"</h2><p>" + layer.feature.properties.Address + " , " + layer.feature.properties.city + "</p><p>" + layer.feature.properties.phone + "</p><p>" + layer.feature.properties.email + "</p>");
     });
-  }).addTo(map);
+  })
+  //.addTo(map);
 //Finish KML layer
 
 var overlays = {
