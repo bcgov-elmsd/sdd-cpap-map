@@ -1132,126 +1132,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>-125.24130905924655, 50.00732611855608</coordinates>
+				<coordinates>-117.63757, 49.0909496</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="p40">
-			<name>Columbia Respiratory</name>
-			<address/>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Columbia Respiratory</value>
-				</Data>
-				<Data name="Address">
-					<value/>
-				</Data>
-				<Data name="city">
-					<value>Nelson</value>
-				</Data>
-				<Data name="phone">
-					<value>250-364-0277</value>
-				</Data>
-				<Data name="email">
-					<value>columbia.respiratory@gmail.com </value>
-				</Data>
-				<Data name="storefront">
-					<value>Clinic</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-124.99396769973089, 49.68709398479504</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p41">
-			<name>Columbia Respiratory</name>
-			<address/>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Columbia Respiratory</value>
-				</Data>
-				<Data name="Address">
-					<value/>
-				</Data>
-				<Data name="city">
-					<value>Grandforks</value>
-				</Data>
-				<Data name="phone">
-					<value>250-364-0277</value>
-				</Data>
-				<Data name="email">
-					<value>columbia.respiratory@gmail.com </value>
-				</Data>
-				<Data name="storefront">
-					<value>Clinic</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.98927772858029, 49.19033843942462</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p42">
-			<name>Columbia Respiratory</name>
-			<address/>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Columbia Respiratory</value>
-				</Data>
-				<Data name="Address">
-					<value/>
-				</Data>
-				<Data name="city">
-					<value>Nakusp</value>
-				</Data>
-				<Data name="phone">
-					<value>250-364-0277</value>
-				</Data>
-				<Data name="email">
-					<value>columbia.respiratory@gmail.com </value>
-				</Data>
-				<Data name="storefront">
-					<value>Clinic</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.71020279975527, 48.77830939015798</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p43">
-			<name>Columbia Respiratory</name>
-			<address/>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Columbia Respiratory</value>
-				</Data>
-				<Data name="Address">
-					<value/>
-				</Data>
-				<Data name="city">
-					<value>New Denver</value>
-				</Data>
-				<Data name="phone">
-					<value>250-364-0277</value>
-				</Data>
-				<Data name="email">
-					<value>columbia.respiratory@gmail.com </value>
-				</Data>
-				<Data name="storefront">
-					<value>Clinic</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.44732875925004, 49.87776888501178</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p44">
 			<name>Custom Sleep Care</name>
 			<address>Lower Mainland</address>
 			<Snippet maxLines="0"/>
@@ -1277,10 +1161,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>-119.6149573552927, 49.49611138749397</coordinates>
+				<coordinates>-122.82178,49.16351</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p45">
+		<Placemark id="p41">
 			<name>Pacific Sleep Care</name>
 			<address>277 Evergreen Road</address>
 			<Snippet maxLines="0"/>
@@ -1309,7 +1193,7 @@
 				<coordinates>-119.26518500156688, 50.28499370926332</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p46">
+		<Placemark id="p42">
 			<name>Pacific Sleep Care</name>
 			<address>1255B Cliffe Avenue </address>
 			<Snippet maxLines="0"/>
@@ -1338,7 +1222,7 @@
 				<coordinates> -120.33485350155628, 50.674820065931776</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p47">
+		<Placemark id="p43">
 			<name>Pacific Sleep Care</name>
 			<address>130-2124 Bowen Road</address>
 			<Snippet maxLines="0"/>
@@ -1367,7 +1251,7 @@
 				<coordinates> -119.58370310158914, 49.46871256359782</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p48">
+		<Placemark id="p44">
 			<name>Pacific Sleep Care</name>
 			<address>160 Jubliee Street</address>
 			<Snippet maxLines="0"/>
@@ -1396,7 +1280,7 @@
 				<coordinates> -119.59203531693272, 49.48548274723095</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p49">
+		<Placemark id="p45">
 			<name>Good Sleep Health Inc.</name>
 			<address>205-2040 Springfield Road </address>
 			<Snippet maxLines="0"/>
@@ -1425,7 +1309,7 @@
 				<coordinates> -119.58368164391707, 49.46877531403661</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p50">
+		<Placemark id="p46">
 			<name>Good Sleep Health Inc.</name>
 			<address>124-300 Riverside Drive</address>
 			<Snippet maxLines="0"/>
@@ -1454,7 +1338,7 @@
 				<coordinates>    -119.61496808399531, 49.49612532424212</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p51">
+		<Placemark id="p47">
 			<name>Good Sleep Health Inc.</name>
 			<address>304-2520 53rd Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1483,7 +1367,7 @@
 				<coordinates>-119.26518500156688, 50.28499370926332</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p52">
+		<Placemark id="p48">
 			<name>Independent Respiratory Services</name>
 			<address>#2 – 275 Seymour Street</address>
 			<Snippet maxLines="0"/>
@@ -1512,7 +1396,7 @@
 				<coordinates> -120.33485350155628, 50.674820065931776</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p53">
+		<Placemark id="p49">
 			<name>Independent Respiratory Services</name>
 			<address>#3–1551 Sutherland Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1541,7 +1425,7 @@
 				<coordinates> -119.58370310158914, 49.46871256359782</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p54">
+		<Placemark id="p50">
 			<name>Independent Respiratory Services</name>
 			<address>#107-291C Fairview Road</address>
 			<Snippet maxLines="0"/>
@@ -1567,10 +1451,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates> -119.59203531693272, 49.48548274723095</coordinates>
+				<coordinates>-119.5508135,49.1825168</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p55">
+		<Placemark id="p51">
 			<name>Independent Respiratory Services</name>
 			<address>#102 – 2504 Skaha Lake Road</address>
 			<Snippet maxLines="0"/>
@@ -1599,7 +1483,7 @@
 				<coordinates> -119.58368164391707, 49.46877531403661</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p56">
+		<Placemark id="p52">
 			<name>Independent Respiratory Services</name>
 			<address>845 Lakeshore Drive SW</address>
 			<Snippet maxLines="0"/>
@@ -1628,7 +1512,7 @@
 				<coordinates> -119.29521774560749, 50.6991341130967</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p57">
+		<Placemark id="p53">
 			<name>Independent Respiratory Services</name>
 			<address>3104 – 32nd Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1657,7 +1541,7 @@
 				<coordinates> -119.27304208609466, 50.265359318879</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p58">
+		<Placemark id="p54">
 			<name>Independent Respiratory Services</name>
 			<address>#102 – 1135 Stevens Road</address>
 			<Snippet maxLines="0"/>
@@ -1686,7 +1570,7 @@
 				<coordinates>-119.56402767446343, 49.86495576243005</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p59">
+		<Placemark id="p55">
 			<name>Independent Respiratory Services</name>
 			<address>875 Columbia Street</address>
 			<Snippet maxLines="0"/>
@@ -1712,10 +1596,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>-120.35355864560817, 50.67061217536217</coordinates>
+				<coordinates>-117.6662108,49.3166843</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p60">
+		<Placemark id="p56">
 			<name>Independent Respiratory Services</name>
 			<address>520 Slater Road NW</address>
 			<Snippet maxLines="0"/>
@@ -1744,7 +1628,7 @@
 				<coordinates>-115.76478992844073, 49.518173375765414</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p61">
+		<Placemark id="p57">
 			<name>Independent Respiratory Services</name>
 			<address>223 16th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1773,7 +1657,7 @@
 				<coordinates>-116.5075667609892, 49.09690155589784</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p62">
+		<Placemark id="p58">
 			<name>Independent Respiratory Services</name>
 			<address>1501 5th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1802,7 +1686,7 @@
 				<coordinates>-115.05625820145623, 49.51378639909326</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p63">
+		<Placemark id="p59">
 			<name>Independent Respiratory Services</name>
 			<address>7649 22nd Street</address>
 			<Snippet maxLines="0"/>
@@ -1831,7 +1715,7 @@
 				<coordinates>-118.46814918612401, 49.02973710870142</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p64">
+		<Placemark id="p60">
 			<name>Independent Respiratory Services</name>
 			<address>1104 – 10th Avenue South</address>
 			<Snippet maxLines="0"/>
@@ -1860,7 +1744,7 @@
 				<coordinates>-116.96268101860845, 51.29379890614682</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p65">
+		<Placemark id="p61">
 			<name>Independent Respiratory Services</name>
 			<address>417- 10th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -1889,7 +1773,7 @@
 				<coordinates>-116.03172493026835, 50.50965404735273</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p66">
+		<Placemark id="p62">
 			<name>Independent Respiratory Services</name>
 			<address>97 1st Avenue NE</address>
 			<Snippet maxLines="0"/>
@@ -1918,7 +1802,7 @@
 				<coordinates>-117.79524715911079, 50.238825448172</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p67">
+		<Placemark id="p63">
 			<name>Independent Respiratory Services</name>
 			<address>806 Vernon Street</address>
 			<Snippet maxLines="0"/>
@@ -1947,7 +1831,7 @@
 				<coordinates>-117.2900705879644, 49.49438965788698</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p68">
+		<Placemark id="p64">
 			<name>Independent Respiratory Services</name>
 			<address>898 Helena Street</address>
 			<Snippet maxLines="0"/>
@@ -1976,7 +1860,7 @@
 				<coordinates>-117.70751488612254, 49.094181935433134</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p69">
+		<Placemark id="p65">
 			<name>Independent Respiratory Services</name>
 			<address>543 Front Street</address>
 			<Snippet maxLines="0"/>
@@ -2005,7 +1889,7 @@
 				<coordinates>-122.49980107438711, 52.98165005608473</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p70">
+		<Placemark id="p66">
 			<name>Independent Respiratory Services</name>
 			<address>2 – 487 Borland Street</address>
 			<Snippet maxLines="0"/>
@@ -2034,7 +1918,7 @@
 				<coordinates>-122.13956605721326, 52.12975105856014</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p71">
+		<Placemark id="p67">
 			<name>Independent Respiratory Services</name>
 			<address>#1 – 2111 McCallum Road</address>
 			<Snippet maxLines="0"/>
@@ -2063,7 +1947,7 @@
 				<coordinates>-122.29376407263166, 49.04053230864909</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p72">
+		<Placemark id="p68">
 			<name>Independent Respiratory Services</name>
 			<address>#101-45389 Luckakuck Way</address>
 			<Snippet maxLines="0"/>
@@ -2092,7 +1976,7 @@
 				<coordinates>-121.96766865913703, 49.14293920570928</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p73">
+		<Placemark id="p69">
 			<name>Independent Respiratory Services</name>
 			<address>Suite 101 – 2255 Elgin Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2121,7 +2005,7 @@
 				<coordinates>-122.77921074564163, 49.26329001481994</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p74">
+		<Placemark id="p70">
 			<name>Independent Respiratory Services</name>
 			<address>222 Wallace Street</address>
 			<Snippet maxLines="0"/>
@@ -2150,7 +2034,7 @@
 				<coordinates>-121.44324838611567, 49.37881725537016</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p75">
+		<Placemark id="p71">
 			<name>Independent Respiratory Services</name>
 			<address>#101 – 22351 St. Anne Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2179,7 +2063,7 @@
 				<coordinates>-122.60319285913515, 49.2148022962389</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p76">
+		<Placemark id="p72">
 			<name>Independent Respiratory Services</name>
 			<address>#250 – 8120 Cook Road</address>
 			<Snippet maxLines="0"/>
@@ -2208,7 +2092,7 @@
 				<coordinates>-123.13528024564391, 49.16632439242431</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p77">
+		<Placemark id="p73">
 			<name>Independent Respiratory Services</name>
 			<address>#140-6011 No. 1 Road</address>
 			<Snippet maxLines="0"/>
@@ -2237,7 +2121,7 @@
 				<coordinates>-123.18160175913623, 49.16991024420243</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p78">
+		<Placemark id="p74">
 			<name>Independent Respiratory Services</name>
 			<address>#104 – 5503 206th Street</address>
 			<Snippet maxLines="0"/>
@@ -2266,7 +2150,7 @@
 				<coordinates>-122.6521303284504, 49.10319896590469</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p79">
+		<Placemark id="p75">
 			<name>Independent Respiratory Services</name>
 			<address>1077 56 Street </address>
 			<Snippet maxLines="0"/>
@@ -2295,7 +2179,7 @@
 				<coordinates>-123.06935180146783, 49.022468970677345</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p80">
+		<Placemark id="p76">
 			<name>Independent Respiratory Services</name>
 			<address>3651 East 1st Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2324,7 +2208,7 @@
 				<coordinates>-123.02523904564164, 49.26992038787501</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p81">
+		<Placemark id="p77">
 			<name>Independent Respiratory Services</name>
 			<address>#188 – 550 Burrard Street</address>
 			<Snippet maxLines="0"/>
@@ -2353,7 +2237,7 @@
 				<coordinates>-123.11833518796922, 49.285851060310634</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p82">
+		<Placemark id="p78">
 			<name>Independent Respiratory Services</name>
 			<address>#306A-888 8th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2382,7 +2266,7 @@
 				<coordinates>-123.12335635728259, 49.264134301010415</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p83">
+		<Placemark id="p79">
 			<name>Independent Respiratory Services</name>
 			<address>#1-2628 Beverly Street</address>
 			<Snippet maxLines="0"/>
@@ -2411,7 +2295,7 @@
 				<coordinates>-123.70094634380145, 48.78483617640929</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p84">
+		<Placemark id="p80">
 			<name>Independent Respiratory Services</name>
 			<address>#150–2124 Bowen Road</address>
 			<Snippet maxLines="0"/>
@@ -2440,7 +2324,7 @@
 				<coordinates>-123.9894279321511, 49.19029636853565</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p85">
+		<Placemark id="p81">
 			<name>Independent Respiratory Services</name>
 			<address>3855 9th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2469,7 +2353,7 @@
 				<coordinates>-124.7988558456422, 49.24650075263256</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p86">
+		<Placemark id="p82">
 			<name>Independent Respiratory Services</name>
 			<address>219 Fern Road West</address>
 			<Snippet maxLines="0"/>
@@ -2498,7 +2382,7 @@
 				<coordinates>-124.4481555609835, 49.34651877254847</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p87">
+		<Placemark id="p83">
 			<name>Independent Respiratory Services</name>
 			<address>#102-9725 4th Street</address>
 			<Snippet maxLines="0"/>
@@ -2527,7 +2411,7 @@
 				<coordinates>-123.3987857014767, 48.64731858696254</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p88">
+		<Placemark id="p84">
 			<name>Independent Respiratory Services</name>
 			<address>819 Bay Street</address>
 			<Snippet maxLines="0"/>
@@ -2556,7 +2440,7 @@
 				<coordinates>-123.3613842879893, 48.43528497078816</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p89">
+		<Placemark id="p85">
 			<name>Independent Respiratory Services</name>
 			<address>284 City Centre </address>
 			<Snippet maxLines="0"/>
@@ -2585,7 +2469,7 @@
 				<coordinates>-128.65395008600075, 54.0536000429019</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p90">
+		<Placemark id="p86">
 			<name>Independent Respiratory Services</name>
 			<address>259-309 2nd Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2614,7 +2498,7 @@
 				<coordinates>-130.3243841166813, 54.31379847686259</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p91">
+		<Placemark id="p87">
 			<name>Independent Respiratory Services</name>
 			<address>3842A 3rd Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2643,7 +2527,7 @@
 				<coordinates> -127.16983887063842, 54.78164054018</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p92">
+		<Placemark id="p88">
 			<name>Independent Respiratory Services</name>
 			<address>202 – 4634 Park Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2672,7 +2556,7 @@
 				<coordinates>-128.59100350133255, 54.5187243818316</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p93">
+		<Placemark id="p89">
 			<name>Independent Respiratory Services</name>
 			<address>106-1669 Victoria Street</address>
 			<Snippet maxLines="0"/>
@@ -2701,7 +2585,7 @@
 				<coordinates>-122.7489699706606, 53.91771266087402</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p94">
+		<Placemark id="p90">
 			<name>Independent Respiratory Services</name>
 			<address>102-1100 Alaska Avenue</address>
 			<Snippet maxLines="0"/>
@@ -2730,7 +2614,7 @@
 				<coordinates>-120.23052605712063, 55.76056959312712</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p95">
+		<Placemark id="p91">
 			<name>Independent Respiratory Services</name>
 			<address>9504 – 100 Street</address>
 			<Snippet maxLines="0"/>
@@ -2759,7 +2643,7 @@
 				<coordinates>-120.84789001663103, 56.241736371341524</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p96">
+		<Placemark id="p92">
 			<name>Inspire Sleep Ltd.</name>
 			<address>835-17685 64 Avenue </address>
 			<Snippet maxLines="0"/>
@@ -2788,7 +2672,7 @@
 				<coordinates>-122.73242139961415, 49.12005847128831</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p97">
+		<Placemark id="p93">
 			<name>Island CPAP Services Ltd.</name>
 			<address>#402-6581 Aulds Road</address>
 			<Snippet maxLines="0"/>
@@ -2817,7 +2701,7 @@
 				<coordinates>-124.05017833197647, 49.23392296297173</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p98">
+		<Placemark id="p94">
 			<name>Island CPAP Services Ltd.</name>
 			<address>#111 750 Comox Road</address>
 			<Snippet maxLines="0"/>
@@ -2846,7 +2730,7 @@
 				<coordinates>-124.9902619437802, 49.69211674326458</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p99">
+		<Placemark id="p95">
 			<name>Island CPAP Services Ltd.</name>
 			<address>1477 Island Highway</address>
 			<Snippet maxLines="0"/>
@@ -2875,7 +2759,7 @@
 				<coordinates>-125.26134098610028, 50.03163093242182</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p100">
+		<Placemark id="p96">
 			<name>CanSleep Services Inc.</name>
 			<address>2628 Richmond Road </address>
 			<Snippet maxLines="0"/>
@@ -2904,7 +2788,7 @@
 				<coordinates>-123.32893718637294, 48.436835767207775</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p101">
+		<Placemark id="p97">
 			<name>Kootenay Respiratory</name>
 			<address>#290 1311 2nd Street North</address>
 			<Snippet maxLines="0"/>
@@ -2933,7 +2817,7 @@
 				<coordinates>-115.76300913051625, 49.513440638380594</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p102">
+		<Placemark id="p98">
 			<name>SleepAid</name>
 			<address>#103-8386 120th Street</address>
 			<Snippet maxLines="0"/>
@@ -2962,7 +2846,7 @@
 				<coordinates>-122.89004200371097, 49.155789780108194</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p103">
+		<Placemark id="p99">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#302-2845 Cruickshank Street</address>
 			<Snippet maxLines="0"/>
@@ -2991,7 +2875,7 @@
 				<coordinates>-122.32457905751721, 49.05408490810212</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p104">
+		<Placemark id="p100">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#103-7885 6th Street</address>
 			<Snippet maxLines="0"/>
@@ -3020,7 +2904,7 @@
 				<coordinates>-122.92813258634743, 49.21926458778893</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p105">
+		<Placemark id="p101">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#100-2976 Glen Drive</address>
 			<Snippet maxLines="0"/>
@@ -3049,7 +2933,7 @@
 				<coordinates>-122.79677112867407, 49.28261515266174</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p106">
+		<Placemark id="p102">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#4 - 22323 48 Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3078,7 +2962,7 @@
 				<coordinates>-122.60609893053004, 49.09008702976136</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p107">
+		<Placemark id="p103">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#130-4471 No.6 Road</address>
 			<Snippet maxLines="0"/>
@@ -3107,7 +2991,7 @@
 				<coordinates>-123.06970668819851, 49.18224808668062</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p108">
+		<Placemark id="p104">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>6071 Gilbert Road</address>
 			<Snippet maxLines="0"/>
@@ -3136,7 +3020,7 @@
 				<coordinates>-123.14809715936319, 49.16959891874819</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p109">
+		<Placemark id="p105">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#102-17660 65a Ave</address>
 			<Snippet maxLines="0"/>
@@ -3165,7 +3049,7 @@
 				<coordinates>-122.7338594998435, 49.12082493426585</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p110">
+		<Placemark id="p106">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#107-13737 96 Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3194,7 +3078,7 @@
 				<coordinates>-122.84281808634883, 49.17755429282282</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p111">
+		<Placemark id="p107">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#104A - 950 West Broadway</address>
 			<Snippet maxLines="0"/>
@@ -3223,7 +3107,7 @@
 				<coordinates>-123.12562214586721, 49.26327400137523</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p112">
+		<Placemark id="p108">
 			<name>Mainland Sleep Diagnostics</name>
 			<address>#30 1040 Legacy Way</address>
 			<Snippet maxLines="0"/>
@@ -3252,7 +3136,7 @@
 				<coordinates>-123.04108188816899, 50.080552678299725</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p113">
+		<Placemark id="p109">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#7-111 Oriole Road</address>
 			<Snippet maxLines="0"/>
@@ -3281,7 +3165,7 @@
 				<coordinates>-120.27140058259941, 50.68027143045641</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p114">
+		<Placemark id="p110">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#104-1924 Ambrosi Road</address>
 			<Snippet maxLines="0"/>
@@ -3310,7 +3194,7 @@
 				<coordinates>-119.45020557283283, 49.87879879541931</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p115">
+		<Placemark id="p111">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#104-483 Main Street</address>
 			<Snippet maxLines="0"/>
@@ -3339,7 +3223,7 @@
 				<coordinates>-119.59137305750271, 49.49602992082226 </coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p116">
+		<Placemark id="p112">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#3-425 Columbia Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3368,7 +3252,7 @@
 				<coordinates>-117.66556167285104, 49.32550973212502</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p117">
+		<Placemark id="p113">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#3-600 Industrial #1 Road North</address>
 			<Snippet maxLines="0"/>
@@ -3397,7 +3281,7 @@
 				<coordinates>-115.76300340184775, 49.51956961026069</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p118">
+		<Placemark id="p114">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#204A–32900 South Fraser Way</address>
 			<Snippet maxLines="0"/>
@@ -3426,7 +3310,7 @@
 				<coordinates>-122.31135450001099, 49.05000290812117</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p119">
+		<Placemark id="p115">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#5-8880 202nd Street </address>
 			<Snippet maxLines="0"/>
@@ -3455,7 +3339,7 @@
 				<coordinates>-122.6599020306949, 49.16464435753008</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p120">
+		<Placemark id="p116">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#11-15243 91st Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3484,7 +3368,7 @@
 				<coordinates>-122.79997758651506, 49.16857068786807</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p121">
+		<Placemark id="p117">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#200-1847 W. Broadway</address>
 			<Snippet maxLines="0"/>
@@ -3513,7 +3397,7 @@
 				<coordinates>-123.14684842884026, 49.26407141481993</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p122">
+		<Placemark id="p118">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>328 Wale Road</address>
 			<Snippet maxLines="0"/>
@@ -3542,7 +3426,7 @@
 				<coordinates>-123.46993223071755, 48.44557573083088</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p123">
+		<Placemark id="p119">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#3-6121 Scott Road</address>
 			<Snippet maxLines="0"/>
@@ -3571,7 +3455,7 @@
 				<coordinates>-123.74585315769102, 48.79233821268148</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p124">
+		<Placemark id="p120">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#101-5180 Dublin Way</address>
 			<Snippet maxLines="0"/>
@@ -3600,7 +3484,7 @@
 				<coordinates>-124.03277927302135, 49.21642159292395</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p125">
+		<Placemark id="p121">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>#278-2950 Douglas Street</address>
 			<Snippet maxLines="0"/>
@@ -3629,7 +3513,7 @@
 				<coordinates>-123.3701556137875, 48.443073030520274</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p126">
+		<Placemark id="p122">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>749 Victoria Street</address>
 			<Snippet maxLines="0"/>
@@ -3658,7 +3542,7 @@
 				<coordinates>-122.75226514217896, 53.914838843947464</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p127">
+		<Placemark id="p123">
 			<name>MedPro Respiratory Care Ltd.</name>
 			<address>Unit A – 8707 100 Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3687,7 +3571,7 @@
 				<coordinates>-120.82283410347311, 56.24626455388922</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p128">
+		<Placemark id="p124">
 			<name>OkanaMed</name>
 			<address>B2-3207 30th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3716,7 +3600,7 @@
 				<coordinates>-119.27442939997222, 50.26400859731593</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p129">
+		<Placemark id="p125">
 			<name>Oxylife</name>
 			<address>45601 Hodgins Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3745,7 +3629,7 @@
 				<coordinates>-121.96320290185895, 49.16765286490306</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p130">
+		<Placemark id="p126">
 			<name>Oxylife</name>
 			<address>691 Seymour Street</address>
 			<Snippet maxLines="0"/>
@@ -3774,7 +3658,7 @@
 				<coordinates>-120.3245165729746, 50.67487956298737</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p131">
+		<Placemark id="p127">
 			<name>Oxylife</name>
 			<address>1964 13th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -3803,7 +3687,7 @@
 				<coordinates>-122.76307031704641, 53.912705089057354</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p132">
+		<Placemark id="p128">
 			<name>Careica Health</name>
 			<address>3595 Ravine Way, Saanich Plaza</address>
 			<Snippet maxLines="0"/>
@@ -3832,7 +3716,7 @@
 				<coordinates>-123.37551368838908, 48.458488993563925</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p133">
+		<Placemark id="p129">
 			<name>Careica Health</name>
 			<address>#107-3823 Henning Drive</address>
 			<Snippet maxLines="0"/>
@@ -3861,7 +3745,7 @@
 				<coordinates>-123.02109074418381, 49.26547269669862</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p134">
+		<Placemark id="p130">
 			<name>Respiratory Homecare Solutions</name>
 			<address>1174B Battle Street</address>
 			<Snippet maxLines="0"/>
@@ -3890,7 +3774,7 @@
 				<coordinates>-120.31220744784207, 50.67345846114312</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p135">
+		<Placemark id="p131">
 			<name>Respiratory Homecare Solutions</name>
 			<address>3499 Voght Street</address>
 			<Snippet maxLines="0"/>
@@ -3919,7 +3803,7 @@
 				<coordinates>-120.77028331717219, 50.122282576831054</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p136">
+		<Placemark id="p132">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#A2 1695 Burtch Road</address>
 			<Snippet maxLines="0"/>
@@ -3948,7 +3832,7 @@
 				<coordinates>-119.46444164416418, 49.8830672156545</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p137">
+		<Placemark id="p133">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#5 4300 27th Street</address>
 			<Snippet maxLines="0"/>
@@ -3977,7 +3861,7 @@
 				<coordinates>-119.26746943251109, 50.275462558154366</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p138">
+		<Placemark id="p134">
 			<name>Respiratory Homecare Solutions</name>
 			<address>15149 Fraser Highway</address>
 			<Snippet maxLines="0"/>
@@ -4006,7 +3890,7 @@
 				<coordinates>-119.61250083067344, 49.839311186611894</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p139">
+		<Placemark id="p135">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#220 30475 Cardinal Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4035,7 +3919,7 @@
 				<coordinates>-122.37946268837018, 49.06078976181235</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p140">
+		<Placemark id="p136">
 			<name>Respiratory Homecare Solutions</name>
 			<address>3959 Kingsway Burnaby</address>
 			<Snippet maxLines="0"/>
@@ -4064,7 +3948,7 @@
 				<coordinates>-123.01672808651301, 49.23313805398216</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p141">
+		<Placemark id="p137">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#211 3030 Lincoln Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4093,7 +3977,7 @@
 				<coordinates>-122.79181010000372, 49.27876006557092</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p142">
+		<Placemark id="p138">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#110 20434 64th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4122,7 +4006,7 @@
 				<coordinates>-122.65690909022004, 49.1183794873826</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p143">
+		<Placemark id="p139">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#100 11915 224th Street</address>
 			<Snippet maxLines="0"/>
@@ -4151,7 +4035,7 @@
 				<coordinates>-122.60214685952924, 49.21899468005356</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p144">
+		<Placemark id="p140">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#502-1150 Marine Drive</address>
 			<Snippet maxLines="0"/>
@@ -4180,7 +4064,7 @@
 				<coordinates>-123.10615094603375, 49.3242068644783</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p145">
+		<Placemark id="p141">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#355 5811 Cooney Road</address>
 			<Snippet maxLines="0"/>
@@ -4209,7 +4093,7 @@
 				<coordinates>-123.13204863254643, 49.171495567571235</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p146">
+		<Placemark id="p142">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#202 15388 24th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4238,7 +4122,7 @@
 				<coordinates>-122.79642683069875, 49.0454731288093</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p147">
+		<Placemark id="p143">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#400 601 West Broadway</address>
 			<Snippet maxLines="0"/>
@@ -4267,7 +4151,7 @@
 				<coordinates>-123.11800450185586, 49.26389030986623</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p148">
+		<Placemark id="p144">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#10-636 Clyde Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4296,7 +4180,7 @@
 				<coordinates>-123.13281195582245, 49.32819847814453</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p149">
+		<Placemark id="p145">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#205-2763 Beverly Street</address>
 			<Snippet maxLines="0"/>
@@ -4325,7 +4209,7 @@
 				<coordinates>-123.70838157118337, 48.78599541345408</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p150">
+		<Placemark id="p146">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#7-6421 Applecross Road</address>
 			<Snippet maxLines="0"/>
@@ -4354,7 +4238,7 @@
 				<coordinates>-124.04341744603651, 49.23571590319155</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p151">
+		<Placemark id="p147">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#102-4917 Pemberton Road</address>
 			<Snippet maxLines="0"/>
@@ -4383,7 +4267,7 @@
 				<coordinates>-124.80955097302035, 49.25633082109345</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p152">
+		<Placemark id="p148">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#204-1527 Hillside Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4412,7 +4296,7 @@
 				<coordinates>-123.33818838653792, 48.44384723887641</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p153">
+		<Placemark id="p149">
 			<name>Respiratory Homecare Solutions</name>
 			<address>#107-2349 Millstream Road</address>
 			<Snippet maxLines="0"/>
@@ -4441,7 +4325,7 @@
 				<coordinates>-123.49903018653725, 48.464291533170204</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p154">
+		<Placemark id="p150">
 			<name>Sleep Easy Respiratory Services Ltd.</name>
 			<address>3275 Shawnigan Lake Road</address>
 			<Snippet maxLines="0"/>
@@ -4470,7 +4354,7 @@
 				<coordinates>-123.626726801875, 48.6581336877365</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p155">
+		<Placemark id="p151">
 			<name>Sleep Works Medical</name>
 			<address>4453 Lougheed Highway</address>
 			<Snippet maxLines="0"/>
@@ -4499,7 +4383,7 @@
 				<coordinates>-123.00489550185583, 49.26685249963721</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p156">
+		<Placemark id="p152">
 			<name>Sleep Works Medical</name>
 			<address>4277 Kingsway</address>
 			<Snippet maxLines="0"/>
@@ -4528,7 +4412,7 @@
 				<coordinates>-123.01002545767709, 49.23251620192061</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p157">
+		<Placemark id="p153">
 			<name>Sleep Works Medical</name>
 			<address>#56-2991 Lougheed Highway</address>
 			<Snippet maxLines="0"/>
@@ -4557,7 +4441,7 @@
 				<coordinates>-122.79447804603517, 49.27738787030247</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p158">
+		<Placemark id="p154">
 			<name>Sleep Works Medical</name>
 			<address>#110-1100 Lonsdale Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4586,7 +4470,7 @@
 				<coordinates>-123.07211861534633, 49.318221321287574</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p159">
+		<Placemark id="p155">
 			<name>Sleep Works Medical</name>
 			<address>1256 Marine Drive (Pemberton)</address>
 			<Snippet maxLines="0"/>
@@ -4615,7 +4499,7 @@
 				<coordinates>-123.10969473068998, 49.32514550399522</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p160">
+		<Placemark id="p156">
 			<name>Sleep Works Medical</name>
 			<address>150-7997 Westminster Highway</address>
 			<Snippet maxLines="0"/>
@@ -4644,7 +4528,7 @@
 				<coordinates>-123.13710064789022, 49.17069822978714</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p161">
+		<Placemark id="p157">
 			<name>Sleep Works Medical</name>
 			<address>#103-15240 56th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4673,7 +4557,7 @@
 				<coordinates>-122.79906953069691, 49.10365457822563</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p162">
+		<Placemark id="p158">
 			<name>Sleep Works Medical</name>
 			<address>#102-17770 56th Avenue (Cloverdale)</address>
 			<Snippet maxLines="0"/>
@@ -4702,7 +4586,7 @@
 				<coordinates>-122.73040061905652, 49.102735912282625</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p163">
+		<Placemark id="p159">
 			<name>Sleep Works Medical</name>
 			<address>#306-9014 152nd Street (Fleetwood)</address>
 			<Snippet maxLines="0"/>
@@ -4731,7 +4615,7 @@
 				<coordinates>-122.79902028651509, 49.16714039070512</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p164">
+		<Placemark id="p160">
 			<name>Sleep Works Medical</name>
 			<address>7154 120th Street (Scott Road)</address>
 			<Snippet maxLines="0"/>
@@ -4760,7 +4644,7 @@
 				<coordinates>-122.89000881535219, 49.13351659540717</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p165">
+		<Placemark id="p161">
 			<name>Sleep Works Medical</name>
 			<address>#103-15157 56th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4789,7 +4673,7 @@
 				<coordinates>-122.80271938651714, 49.105640407925435</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p166">
+		<Placemark id="p162">
 			<name>Sleep Works Medical</name>
 			<address>#204-18730 Fraser Highway (Clayton)</address>
 			<Snippet maxLines="0"/>
@@ -4818,7 +4702,7 @@
 				<coordinates>-122.70323685768055, 49.12363266207905</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p167">
+		<Placemark id="p163">
 			<name>Sleep Works Medical</name>
 			<address>#102-12565 88th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4847,7 +4731,7 @@
 				<coordinates>-122.8752418576793, 49.1645285972488</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p168">
+		<Placemark id="p164">
 			<name>Sleep Works Medical</name>
 			<address>#200-15331 16th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4876,7 +4760,7 @@
 				<coordinates>-122.79871935953508, 49.03168859910079</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p169">
+		<Placemark id="p165">
 			<name>Sleep Works Medical</name>
 			<address>#150-17475 56th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -4905,7 +4789,7 @@
 				<coordinates>-122.73940140186089, 49.10469513014643</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p170">
+		<Placemark id="p166">
 			<name>Sleep Works Medical</name>
 			<address>#3-3238 King George Boulevard</address>
 			<Snippet maxLines="0"/>
@@ -4934,7 +4818,7 @@
 				<coordinates>-122.81130210186231, 49.061087194058516</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p171">
+		<Placemark id="p167">
 			<name>Sleep Works Medical</name>
 			<address>2077 West 42nd Avenue (Kerrisdale)</address>
 			<Snippet maxLines="0"/>
@@ -4963,7 +4847,7 @@
 				<coordinates>-123.15339478466137, 49.234016769263114</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p172">
+		<Placemark id="p168">
 			<name>Sleep Works Medical</name>
 			<address>2480 Heather Street</address>
 			<Snippet maxLines="0"/>
@@ -4992,7 +4876,7 @@
 				<coordinates>-123.11965405952782, 49.263790521550376</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p173">
+		<Placemark id="p169">
 			<name>Sleep Works Medical</name>
 			<address>#102-2280 East Hastings</address>
 			<Snippet maxLines="0"/>
@@ -5021,7 +4905,7 @@
 				<coordinates>-123.05831045952723, 49.28100166674507</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p174">
+		<Placemark id="p170">
 			<name>Sleep Works Medical</name>
 			<address>4448 West 10th Avenue (Point Grey)</address>
 			<Snippet maxLines="0"/>
@@ -5050,7 +4934,7 @@
 				<coordinates>-123.20745147116833, 49.2637624102654</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p175">
+		<Placemark id="p171">
 			<name>Vancouver Sleep Solutions</name>
 			<address>805-777 Hornby Street</address>
 			<Snippet maxLines="0"/>
@@ -5079,7 +4963,7 @@
 				<coordinates>-123.12187361534734, 49.28308145789182</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p176">
+		<Placemark id="p172">
 			<name>VitalAire</name>
 			<address>#9 970 Laval Crescent</address>
 			<Snippet maxLines="0"/>
@@ -5108,7 +4992,7 @@
 				<coordinates>-120.36509861530325, 50.66140920335414</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p177">
+		<Placemark id="p173">
 			<name>VitalAire</name>
 			<address>#203 3975 Lakeshore Road</address>
 			<Snippet maxLines="0"/>
@@ -5137,7 +5021,7 @@
 				<coordinates>-119.48795427114985, 49.8406283634362</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p178">
+		<Placemark id="p174">
 			<name>VitalAire</name>
 			<address>3373 Skaha Lake Road</address>
 			<Snippet maxLines="0"/>
@@ -5166,7 +5050,7 @@
 				<coordinates>-119.58828703068565, 49.45775890384607</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p179">
+		<Placemark id="p175">
 			<name>VitalAire</name>
 			<address>Unit B 1000 Cranbrook Street N</address>
 			<Snippet maxLines="0"/>
@@ -5195,7 +5079,7 @@
 				<coordinates>-115.75664784417573, 49.521602839123496</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p180">
+		<Placemark id="p176">
 			<name>VitalAire</name>
 			<address>#301 1101 Dewdney Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5224,7 +5108,7 @@
 				<coordinates>-117.70817357117352, 49.09780647751148</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p181">
+		<Placemark id="p177">
 			<name>VitalAire</name>
 			<address>#107 9123 Mary Street</address>
 			<Snippet maxLines="0"/>
@@ -5253,7 +5137,7 @@
 				<coordinates>-121.96122873069488, 49.16811877862878</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p182">
+		<Placemark id="p178">
 			<name>VitalAire</name>
 			<address>#201 9087 198 Street</address>
 			<Snippet maxLines="0"/>
@@ -5282,7 +5166,7 @@
 				<coordinates>-122.67619837487449, 49.169044561156845</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p183">
+		<Placemark id="p179">
 			<name>VitalAire</name>
 			<address>#300 22420 Dewdney Trunk Road</address>
 			<Snippet maxLines="0"/>
@@ -5311,7 +5195,7 @@
 				<coordinates>-122.60090865767742, 49.2203087686163</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p184">
+		<Placemark id="p180">
 			<name>VitalAire</name>
 			<address>#114 13710 94a Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5340,7 +5224,7 @@
 				<coordinates>-122.84294582884293, 49.1749134276579</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p185">
+		<Placemark id="p181">
 			<name>VitalAire</name>
 			<address>1869 West Broadway</address>
 			<Snippet maxLines="0"/>
@@ -5369,7 +5253,7 @@
 				<coordinates>-123.14726497301989, 49.264113713288616</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p186">
+		<Placemark id="p182">
 			<name>VitalAire</name>
 			<address>#99-1742 Cliffe Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5398,7 +5282,7 @@
 				<coordinates>-124.98949057300646, 49.684411093121525</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p187">
+		<Placemark id="p183">
 			<name>VitalAire</name>
 			<address>#5-5769 Turner Road</address>
 			<Snippet maxLines="0"/>
@@ -5427,7 +5311,7 @@
 				<coordinates>-124.03477764603686, 49.22521115813144</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p188">
+		<Placemark id="p184">
 			<name>VitalAire</name>
 			<address>Unit B 3055 Scott Street</address>
 			<Snippet maxLines="0"/>
@@ -5456,7 +5340,7 @@
 				<coordinates>-123.33444624606146, 48.444654685044476</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p189">
+		<Placemark id="p185">
 			<name>VitalAire</name>
 			<address>2350 Ospika Boulevard S</address>
 			<Snippet maxLines="0"/>
@@ -5485,7 +5369,7 @@
 				<coordinates>-122.79259217101546, 53.90043237074503</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p190">
+		<Placemark id="p186">
 			<name>Sleeptech</name>
 			<address>#212 5460 152nd Street </address>
 			<Snippet maxLines="0"/>
@@ -5514,7 +5398,7 @@
 				<coordinates>-122.79894364233745, 49.10238588908212</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p191">
+		<Placemark id="p187">
 			<name>Sleeptech</name>
 			<address>#205 1945 McCallum Road </address>
 			<Snippet maxLines="0"/>
@@ -5543,7 +5427,7 @@
 				<coordinates>-122.29358431535515, 49.03786544786168</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p192">
+		<Placemark id="p188">
 			<name>Sleeptech</name>
 			<address>#200 1525 Robson Street </address>
 			<Snippet maxLines="0"/>
@@ -5572,7 +5456,7 @@
 				<coordinates>-123.13149063254274, 49.28935141713579</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p193">
+		<Placemark id="p189">
 			<name>Sleeptech</name>
 			<address>#103–664 Beach Road </address>
 			<Snippet maxLines="0"/>
@@ -5601,7 +5485,7 @@
 				<coordinates>-124.44698223254088, 49.347919663265984</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p194">
+		<Placemark id="p190">
 			<name>West Care Medical Ltd. </name>
 			<address>150-6200 McKay Ave</address>
 			<Snippet maxLines="0"/>
@@ -5630,7 +5514,7 @@
 				<coordinates>-123.00384430000535, 49.227137011324345</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p195">
+		<Placemark id="p191">
 			<name>West Care Medical Ltd. </name>
 			<address>108-17 Fawcett Road</address>
 			<Snippet maxLines="0"/>
@@ -5659,7 +5543,7 @@
 				<coordinates>-122.83360614418525, 49.22278713812573</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p196">
+		<Placemark id="p192">
 			<name>West Care Medical Ltd. </name>
 			<address>404-2151 McCallum Road</address>
 			<Snippet maxLines="0"/>
@@ -5688,7 +5572,7 @@
 				<coordinates>-122.29456381720676, 49.041116668872085</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p197">
+		<Placemark id="p193">
 			<name>West Care Medical Ltd. </name>
 			<address>2185 Wilson Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5717,7 +5601,7 @@
 				<coordinates>-122.7772979171998, 49.26128981267037</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p198">
+		<Placemark id="p194">
 			<name>West Care Medical Ltd. </name>
 			<address>45424 Hodgins Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5746,7 +5630,7 @@
 				<coordinates>-121.9670428325466, 49.168193398207386</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="p199">
+		<Placemark id="p195">
 			<name>West Care Medical Ltd. </name>
 			<address>1530 West 7th Avenue</address>
 			<Snippet maxLines="0"/>
@@ -5773,1369 +5657,6 @@
 			</ExtendedData>
 			<Point>
 				<coordinates>-123.139539244184, 49.26543190623928</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p200">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 120-2491 McCallum Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 120-2491 McCallum Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 120-2491 McCallum Road</value>
-				</Data>
-				<Data name="city">
-					<value>Abbotsford V2S 3P8</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infoab@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.2939924 , 49.0474531</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p201">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 101-8620 Glenlyon Parkway </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 101-8620 Glenlyon Parkway &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 101-8620 Glenlyon Parkway </value>
-				</Data>
-				<Data name="city">
-					<value>Burnaby V5J 0B6</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infoabb@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.0099452 , 49.2067476</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p202">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 114-1533 Broadway Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 114-1533 Broadway Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 114-1533 Broadway Street</value>
-				</Data>
-				<Data name="city">
-					<value>Port Coquitlam V3C 6P3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infotc@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.7639021 , 49.2426729</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p203">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 4-17675 66th Avenue </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 4-17675 66th Avenue &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 4-17675 66th Avenue </value>
-				</Data>
-				<Data name="city">
-					<value>Surrey V3S 7X1</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infosry@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.732698 , 49.1226745</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p204">
-			<name>National Seating &amp; Mobility </name>
-			<address>1340 Pemberton Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1340 Pemberton Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>1340 Pemberton Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>North Vancouver V7P 2R7</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infonv@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.1074073 , 49.3204627</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p205">
-			<name>National Seating &amp; Mobility </name>
-			<address>48 East 6 th Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;48 East 6 th Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>48 East 6 th Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Vancouver V5T 1J4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infovan@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.907001 , 49.2202815</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p206">
-			<name>National Seating &amp; Mobility </name>
-			<address>1749 Lyon Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1749 Lyon Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>1749 Lyon Street</value>
-				</Data>
-				<Data name="city">
-					<value>Prince George V2N 1T3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infopg@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.7849721 , 53.9080802</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p207">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 4-1495 Dilworth Drive </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 4-1495 Dilworth Drive &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 4-1495 Dilworth Drive </value>
-				</Data>
-				<Data name="city">
-					<value>Kelowna  V1Y 9N5</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infokel@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.4370294 , 49.8870839</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p208">
-			<name>National Seating &amp; Mobility </name>
-			<address>4206 25th Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;4206 25th Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>4206 25th Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Vernon V1T 1P4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infover@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.2946795 , 50.2588483</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p209">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 25A-1967 East Trans-Canada Highway</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 25A-1967 East Trans-Canada Highway&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 25A-1967 East Trans-Canada Highway</value>
-				</Data>
-				<Data name="city">
-					<value>Kamloops V2C 4A4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infokam@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-120.2738262 , 50.679978</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p210">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 144- 2770 Leigh Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 144- 2770 Leigh Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 144- 2770 Leigh Road</value>
-				</Data>
-				<Data name="city">
-					<value>Victoria V9B 4G1</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infovic@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.5181973 , 48.4511127</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p211">
-			<name>National Seating &amp; Mobility </name>
-			<address>Unit 4- 2227 Wilgress Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 4- 2227 Wilgress Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>National Seating &amp; Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 4- 2227 Wilgress Road</value>
-				</Data>
-				<Data name="city">
-					<value>Nanaimo V9S 4N3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-676-6683</value>
-				</Data>
-				<Data name="email">
-					<value>infonan@nsm-seating.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.9772659 , 49.1935277</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p212">
-			<name>Motion </name>
-			<address>101-8255 North Fraser Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;101-8255 North Fraser Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>101-8255 North Fraser Way</value>
-				</Data>
-				<Data name="city">
-					<value>Burnaby V3N 0B9</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>vancouver@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.9735103 , 49.1910033</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p213">
-			<name>Motion </name>
-			<address>Unit 4-9764 Fifth Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 4-9764 Fifth Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 4-9764 Fifth Street</value>
-				</Data>
-				<Data name="city">
-					<value>Sidney V8L 2X2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>sidney@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.4010325 , 48.6480936</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p214">
-			<name>Motion </name>
-			<address>Unit 114- 1925 Boxwood Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;Unit 114- 1925 Boxwood Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>Unit 114- 1925 Boxwood Road</value>
-				</Data>
-				<Data name="city">
-					<value>Nanaimo V9S 5X9</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>nanaimo@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.9862087 , 49.1833309</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p215">
-			<name>Motion </name>
-			<address>1856 Quadra Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1856 Quadra Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>1856 Quadra Street</value>
-				</Data>
-				<Data name="city">
-					<value>Victoria V8T 4B9 </value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>victoria@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.3590296 , 48.4305353</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p216">
-			<name>Motion </name>
-			<address>24-215 Port Augusta Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;24-215 Port Augusta Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>24-215 Port Augusta Street</value>
-				</Data>
-				<Data name="city">
-					<value>Comox V9M 3M9</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>comox@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-124.9239317 , 49.6737576</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p217">
-			<name>Motion </name>
-			<address>113-78 Industrial Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;113-78 Industrial Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>113-78 Industrial Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Penticton V2A 6M2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>penticton@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.5874301 , 49.4791817</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p218">
-			<name>Motion </name>
-			<address>103-171 Commercial Drive</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;103-171 Commercial Drive&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>103-171 Commercial Drive</value>
-				</Data>
-				<Data name="city">
-					<value>Kelowna V1X 7W2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>kelowna@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.3886198 , 49.9152672</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p219">
-			<name>Motion </name>
-			<address>3-3100 35th Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;3-3100 35th Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>3-3100 35th Street</value>
-				</Data>
-				<Data name="city">
-					<value>Vernon V1T 9H4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>vernon@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-119.2793084 , 50.2649986</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p220">
-			<name>Motion </name>
-			<address>1694 Second Avenue </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1694 Second Avenue &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Motion </value>
-				</Data>
-				<Data name="Address">
-					<value>1694 Second Avenue </value>
-				</Data>
-				<Data name="city">
-					<value>Trail V1R 1M5</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-222-2172</value>
-				</Data>
-				<Data name="email">
-					<value>trail@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-117.7010778 , 49.096746</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p221">
-			<name>Island Mediquip</name>
-			<address>750 Enterprise Crescent</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;750 Enterprise Crescent&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Island Mediquip</value>
-				</Data>
-				<Data name="Address">
-					<value>750 Enterprise Crescent</value>
-				</Data>
-				<Data name="city">
-					<value>Victoria V8Z 6R4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-231-7188</value>
-				</Data>
-				<Data name="email">
-					<value>victoria@islandmediquip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.3874461 , 48.4855176</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p222">
-			<name>Island Mediquip</name>
-			<address>1063 Canada Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1063 Canada Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Island Mediquip</value>
-				</Data>
-				<Data name="Address">
-					<value>1063 Canada Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Duncan V9L 1V2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-231-7188</value>
-				</Data>
-				<Data name="email">
-					<value>duncan@islamdmediquip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.7104457 , 48.7874918</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p223">
-			<name>Island Mediquip</name>
-			<address>#9-204 Old Island Highway</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;#9-204 Old Island Highway&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Island Mediquip</value>
-				</Data>
-				<Data name="Address">
-					<value>#9-204 Old Island Highway</value>
-				</Data>
-				<Data name="city">
-					<value>Courtenay V9N 3P1</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-231-7188</value>
-				</Data>
-				<Data name="email">
-					<value>courtenay@islandmediquip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.4340052 , 48.452831</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p224">
-			<name>Island Mediquip</name>
-			<address>2258 Dorman Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;2258 Dorman Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Island Mediquip</value>
-				</Data>
-				<Data name="Address">
-					<value>2258 Dorman Road</value>
-				</Data>
-				<Data name="city">
-					<value>Nanaimo V9S 5G2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-231-7188</value>
-				</Data>
-				<Data name="email">
-					<value>nanaimo@islandmediquip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.9850903 , 49.1942686</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p225">
-			<name>Island Mediquip</name>
-			<address>859B -12th Avenuie</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;859B -12th Avenuie&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Island Mediquip</value>
-				</Data>
-				<Data name="Address">
-					<value>859B -12th Avenuie</value>
-				</Data>
-				<Data name="city">
-					<value>Campbell River V9W 7C5</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-231-7188</value>
-				</Data>
-				<Data name="email">
-					<value>campbellriver@islandmediquip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-118.7842424 , 49.0123141</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p226">
-			<name>Kootenay Columbia Home Medical Equipment</name>
-			<address>140-630 17th Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;140-630 17th Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Kootenay Columbia Home Medical Equipment</value>
-				</Data>
-				<Data name="Address">
-					<value>140-630 17th Street</value>
-				</Data>
-				<Data name="city">
-					<value>Castlegar V1N 4G7</value>
-				</Data>
-				<Data name="phone">
-					<value>1-866-515-7772</value>
-				</Data>
-				<Data name="email">
-					<value>info@kchomemedical.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-117.6560544 , 49.3011227</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p227">
-			<name>Kootenay Columbia Home Medical Equipment</name>
-			<address>250 Slater Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;250 Slater Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Kootenay Columbia Home Medical Equipment</value>
-				</Data>
-				<Data name="Address">
-					<value>250 Slater Road</value>
-				</Data>
-				<Data name="city">
-					<value>Cranbrook V1C 5C8</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-661-4022</value>
-				</Data>
-				<Data name="email">
-					<value>info@kchomemedical.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-115.7675567 , 49.5157272</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p228">
-			<name>BC Medequip</name>
-			<address>2230 Springer Avenue </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;2230 Springer Avenue &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>BC Medequip</value>
-				</Data>
-				<Data name="Address">
-					<value>2230 Springer Avenue </value>
-				</Data>
-				<Data name="city">
-					<value>Burnaby V5B 3M7</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-988-5882</value>
-				</Data>
-				<Data name="email">
-					<value>service@bcmedequip.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.9874378 , 49.2637145</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p229">
-			<name>Abbey Medical Supplies</name>
-			<address>5- 31813 South Fraser Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;5- 31813 South Fraser Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Abbey Medical Supplies</value>
-				</Data>
-				<Data name="Address">
-					<value>5- 31813 South Fraser Way</value>
-				</Data>
-				<Data name="city">
-					<value>Abbotsford V2T 1V4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-251-8666</value>
-				</Data>
-				<Data name="email">
-					<value>info@abbeymedicalsupplies.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.3424631 , 49.0481781</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p230">
-			<name>HME Mobility &amp; Accessibility</name>
-			<address>130-4011 Viking Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;130-4011 Viking Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>HME Mobility &amp; Accessibility</value>
-				</Data>
-				<Data name="Address">
-					<value>130-4011 Viking Way</value>
-				</Data>
-				<Data name="city">
-					<value>Richmond V6V 2K9</value>
-				</Data>
-				<Data name="phone">
-					<value>1-844-821-0075</value>
-				</Data>
-				<Data name="email">
-					<value>none</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.0740829 , 49.1840524</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p231">
-			<name>HME Mobility &amp; Accessibility</name>
-			<address>104-3577 194th Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;104-3577 194th Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>HME Mobility &amp; Accessibility</value>
-				</Data>
-				<Data name="Address">
-					<value>104-3577 194th Street</value>
-				</Data>
-				<Data name="city">
-					<value>Surrey V3S 0L5 </value>
-				</Data>
-				<Data name="phone">
-					<value>1-844-821-0075</value>
-				</Data>
-				<Data name="email">
-					<value>none</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.6861152 , 49.0665545</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p232">
-			<name>HME Mobility &amp; Accessibility</name>
-			<address>102-2657 Wilfert Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;102-2657 Wilfert Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>HME Mobility &amp; Accessibility</value>
-				</Data>
-				<Data name="Address">
-					<value>102-2657 Wilfert Road</value>
-				</Data>
-				<Data name="city">
-					<value>Victoria V9B 5Z3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-844-821-0075</value>
-				</Data>
-				<Data name="email">
-					<value>none</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.4681487 , 48.4472321</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p233">
-			<name>Macdonald's Home Healthcare</name>
-			<address>148 West 6th Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;148 West 6th Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Macdonald's Home Healthcare</value>
-				</Data>
-				<Data name="Address">
-					<value>148 West 6th Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Vancouver V5Y 1K6</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-276-5847</value>
-				</Data>
-				<Data name="email">
-					<value>info@macdonaldshhc.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.1083554 , 49.265383</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p234">
-			<name>Macdonald's Home Healthcare</name>
-			<address>7640 Winston Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;7640 Winston Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Macdonald's Home Healthcare</value>
-				</Data>
-				<Data name="Address">
-					<value>7640 Winston Street</value>
-				</Data>
-				<Data name="city">
-					<value>Burnaby V5A 2H4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-276-5847</value>
-				</Data>
-				<Data name="email">
-					<value>burnaby@macdonaldshhc.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.9399038 , 49.2481195</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p235">
-			<name>1st Choice Mobility </name>
-			<address>108-663 Sumas Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;108-663 Sumas Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>1st Choice Mobility </value>
-				</Data>
-				<Data name="Address">
-					<value>108-663 Sumas Way</value>
-				</Data>
-				<Data name="city">
-					<value>Abbotsford V2S 7P4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-844-850-2344</value>
-				</Data>
-				<Data name="email">
-					<value>office@1stchoicemobility.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.2653765 , 49.0139578</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p236">
-			<name>Tri  City Home Home Medical Equipment</name>
-			<address>1110-1368 Kingsway Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1110-1368 Kingsway Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Tri  City Home Home Medical Equipment</value>
-				</Data>
-				<Data name="Address">
-					<value>1110-1368 Kingsway Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Port Coquitlam V3C 6P4</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-945-0965</value>
-				</Data>
-				<Data name="email">
-					<value>hal@tricityhomemed.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.753552 , 49.2484794</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p237">
-			<name>Ability Healthcare Group </name>
-			<address>201-360 Edworthy Way </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;201-360 Edworthy Way &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Ability Healthcare Group </value>
-				</Data>
-				<Data name="Address">
-					<value>201-360 Edworthy Way </value>
-				</Data>
-				<Data name="city">
-					<value>New Westminster V3L 5T8</value>
-				</Data>
-				<Data name="phone">
-					<value>1-888-540-2270</value>
-				</Data>
-				<Data name="email">
-					<value>none</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.8846157 , 49.2237769</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p238">
-			<name>A-1 Wheelchairs Unlimited</name>
-			<address>111-6360 202 Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;111-6360 202 Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>A-1 Wheelchairs Unlimited</value>
-				</Data>
-				<Data name="Address">
-					<value>111-6360 202 Street</value>
-				</Data>
-				<Data name="city">
-					<value>Langley V2Y 1N2</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-665-0098</value>
-				</Data>
-				<Data name="email">
-					<value>info@a-1wheelchairs.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.6627637 , 49.118238</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p239">
-			<name>Regency Medical Supplies</name>
-			<address>4437 Canada Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;4437 Canada Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Regency Medical Supplies</value>
-				</Data>
-				<Data name="Address">
-					<value>4437 Canada Way</value>
-				</Data>
-				<Data name="city">
-					<value>Burnaby V5G 1J3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-663-1012</value>
-				</Data>
-				<Data name="email">
-					<value>bill@regencymed.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.0055636 , 49.2547137</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p240">
-			<name>Davies Home Healthcare</name>
-			<address>1417 St. Georges Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;1417 St. Georges Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Davies Home Healthcare</value>
-				</Data>
-				<Data name="Address">
-					<value>1417 St. Georges Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>North Vancouver V7L 3J3</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-585-9211 </value>
-				</Data>
-				<Data name="email">
-					<value>ortho@davieshh.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.0697345 , 49.321303</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p241">
-			<name>Davies Home Healthcare</name>
-			<address>119-1201 Commercial Way</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;119-1201 Commercial Way&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Davies Home Healthcare</value>
-				</Data>
-				<Data name="Address">
-					<value>119-1201 Commercial Way</value>
-				</Data>
-				<Data name="city">
-					<value>Squamish V8B 0V1</value>
-				</Data>
-				<Data name="phone">
-					<value>1-844-227-5198</value>
-				</Data>
-				<Data name="email">
-					<value>squamishhc@davieshh.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-123.1532768 , 49.7237527</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p242">
-			<name>The Rehab Shop</name>
-			<address>4-45905 Yale Road </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;4-45905 Yale Road &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>The Rehab Shop</value>
-				</Data>
-				<Data name="Address">
-					<value>4-45905 Yale Road </value>
-				</Data>
-				<Data name="city">
-					<value>Chilliwack V2P 2M6</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-309-1099</value>
-				</Data>
-				<Data name="email">
-					<value>info@therehabshop.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-121.9583882 , 49.1675973</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p243">
-			<name>The Comfort Zone</name>
-			<address>4408 China Creek Road</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;4408 China Creek Road&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>The Comfort Zone</value>
-				</Data>
-				<Data name="Address">
-					<value>4408 China Creek Road</value>
-				</Data>
-				<Data name="city">
-					<value>Port Alberni V9Y 1P9</value>
-				</Data>
-				<Data name="phone">
-					<value>1-833-268-5235</value>
-				</Data>
-				<Data name="email">
-					<value>info@albernicomfortzone.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-124.7996084 , 49.2322698</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p244">
-			<name>Northcoast Home Medical Equipment</name>
-			<address>4712 Keith Avenue</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;4712 Keith Avenue&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Northcoast Home Medical Equipment</value>
-				</Data>
-				<Data name="Address">
-					<value>4712 Keith Avenue</value>
-				</Data>
-				<Data name="city">
-					<value>Terrace V8G 4K1</value>
-				</Data>
-				<Data name="phone">
-					<value>1-866-638-1301</value>
-				</Data>
-				<Data name="email">
-					<value>terrace@motioncares.ca</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-128.5941569 , 54.5137468</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p245">
-			<name>Medichair Northern BC</name>
-			<address>849 2nd Avenue </address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;849 2nd Avenue &lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Medichair Northern BC</value>
-				</Data>
-				<Data name="Address">
-					<value>849 2nd Avenue </value>
-				</Data>
-				<Data name="city">
-					<value>Prince George V2L 3A6</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-330-2772</value>
-				</Data>
-				<Data name="email">
-					<value>princegeorge@medichair.com</value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.7380333 , 53.9155278</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="p246">
-			<name>Medichair Northern BC</name>
-			<address>664 Front Street</address>
-			<Snippet maxLines="0"/>
-			<description>&lt;p&gt;664 Front Street&lt;/p&gt;</description>
-			<ExtendedData>
-				<Data name="SupplierName">
-					<value>Medichair Northern BC</value>
-				</Data>
-				<Data name="Address">
-					<value>664 Front Street</value>
-				</Data>
-				<Data name="city">
-					<value>Quesnel V2J 2K8</value>
-				</Data>
-				<Data name="phone">
-					<value>1-800-330-2722</value>
-				</Data>
-				<Data name="email">
-					<value>princegeorge@medichair.com </value>
-				</Data>
-				<Data name="storefront">
-					<value>ME</value>
-				</Data>
-			</ExtendedData>
-			<Point>
-				<coordinates>-122.907847 , 49.2024422</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

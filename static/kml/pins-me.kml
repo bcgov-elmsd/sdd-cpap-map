@@ -1,0 +1,1372 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+	<Document xmlns="http://www.opengis.net/kml/2.2" id="spreadsheet_to_kml">
+		<open>1</open>
+		<Snippet maxLines="0"/>
+		<description>Ministry of Social Development Mashup</description>
+		<Placemark id="p1">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 120-2491 McCallum Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 120-2491 McCallum Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 120-2491 McCallum Road</value>
+				</Data>
+				<Data name="city">
+					<value>Abbotsford V2S 3P8</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infoab@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2939924 , 49.0474531</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p2">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 101-8620 Glenlyon Parkway </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 101-8620 Glenlyon Parkway &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 101-8620 Glenlyon Parkway </value>
+				</Data>
+				<Data name="city">
+					<value>Burnaby V5J 0B6</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infoabb@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.0099452 , 49.2067476</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p3">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 114-1533 Broadway Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 114-1533 Broadway Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 114-1533 Broadway Street</value>
+				</Data>
+				<Data name="city">
+					<value>Port Coquitlam V3C 6P3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infotc@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.7639021 , 49.2426729</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p4">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 4-17675 66th Avenue </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 4-17675 66th Avenue &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 4-17675 66th Avenue </value>
+				</Data>
+				<Data name="city">
+					<value>Surrey V3S 7X1</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infosry@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.732698 , 49.1226745</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p5">
+			<name>National Seating &amp; Mobility </name>
+			<address>1340 Pemberton Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1340 Pemberton Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>1340 Pemberton Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>North Vancouver V7P 2R7</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infonv@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.1074073 , 49.3204627</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p6">
+			<name>National Seating &amp; Mobility </name>
+			<address>48 East 6 th Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;48 East 6 th Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>48 East 6 th Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Vancouver V5T 1J4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infovan@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.1056586,49.2653216</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p7">
+			<name>National Seating &amp; Mobility </name>
+			<address>1749 Lyon Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1749 Lyon Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>1749 Lyon Street</value>
+				</Data>
+				<Data name="city">
+					<value>Prince George V2N 1T3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infopg@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.7849721 , 53.9080802</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p8">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 4-1495 Dilworth Drive </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 4-1495 Dilworth Drive &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 4-1495 Dilworth Drive </value>
+				</Data>
+				<Data name="city">
+					<value>Kelowna  V1Y 9N5</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infokel@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.4370294 , 49.8870839</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p9">
+			<name>National Seating &amp; Mobility </name>
+			<address>4206 25th Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;4206 25th Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>4206 25th Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Vernon V1T 1P4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infover@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.2946795 , 50.2588483</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p10">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 25A-1967 East Trans-Canada Highway</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 25A-1967 East Trans-Canada Highway&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 25A-1967 East Trans-Canada Highway</value>
+				</Data>
+				<Data name="city">
+					<value>Kamloops V2C 4A4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infokam@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.2738262 , 50.679978</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p11">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 144- 2770 Leigh Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 144- 2770 Leigh Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 144- 2770 Leigh Road</value>
+				</Data>
+				<Data name="city">
+					<value>Victoria V9B 4G1</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infovic@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.5181973 , 48.4511127</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p12">
+			<name>National Seating &amp; Mobility </name>
+			<address>Unit 4- 2227 Wilgress Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 4- 2227 Wilgress Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>National Seating &amp; Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 4- 2227 Wilgress Road</value>
+				</Data>
+				<Data name="city">
+					<value>Nanaimo V9S 4N3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-676-6683</value>
+				</Data>
+				<Data name="email">
+					<value>infonan@nsm-seating.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.9772659 , 49.1935277</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p13">
+			<name>Motion </name>
+			<address>101-8255 North Fraser Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;101-8255 North Fraser Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>101-8255 North Fraser Way</value>
+				</Data>
+				<Data name="city">
+					<value>Burnaby V3N 0B9</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>vancouver@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.9735103 , 49.1910033</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p14">
+			<name>Motion </name>
+			<address>Unit 4-9764 Fifth Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 4-9764 Fifth Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 4-9764 Fifth Street</value>
+				</Data>
+				<Data name="city">
+					<value>Sidney V8L 2X2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>sidney@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.4010325 , 48.6480936</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p15">
+			<name>Motion </name>
+			<address>Unit 114- 1925 Boxwood Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;Unit 114- 1925 Boxwood Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>Unit 114- 1925 Boxwood Road</value>
+				</Data>
+				<Data name="city">
+					<value>Nanaimo V9S 5X9</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>nanaimo@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.9862087 , 49.1833309</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p16">
+			<name>Motion </name>
+			<address>1856 Quadra Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1856 Quadra Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>1856 Quadra Street</value>
+				</Data>
+				<Data name="city">
+					<value>Victoria V8T 4B9 </value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>victoria@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.3590296 , 48.4305353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p17">
+			<name>Motion </name>
+			<address>24-215 Port Augusta Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;24-215 Port Augusta Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>24-215 Port Augusta Street</value>
+				</Data>
+				<Data name="city">
+					<value>Comox V9M 3M9</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>comox@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.9239317 , 49.6737576</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p18">
+			<name>Motion </name>
+			<address>113-78 Industrial Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;113-78 Industrial Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>113-78 Industrial Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Penticton V2A 6M2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>penticton@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.5874301 , 49.4791817</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p19">
+			<name>Motion </name>
+			<address>103-171 Commercial Drive</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;103-171 Commercial Drive&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>103-171 Commercial Drive</value>
+				</Data>
+				<Data name="city">
+					<value>Kelowna V1X 7W2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>kelowna@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.3886198 , 49.9152672</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p20">
+			<name>Motion </name>
+			<address>3-3100 35th Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;3-3100 35th Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>3-3100 35th Street</value>
+				</Data>
+				<Data name="city">
+					<value>Vernon V1T 9H4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>vernon@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.2793084 , 50.2649986</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p21">
+			<name>Motion </name>
+			<address>1694 Second Avenue </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1694 Second Avenue &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Motion </value>
+				</Data>
+				<Data name="Address">
+					<value>1694 Second Avenue </value>
+				</Data>
+				<Data name="city">
+					<value>Trail V1R 1M5</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-222-2172</value>
+				</Data>
+				<Data name="email">
+					<value>trail@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.7010778 , 49.096746</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p22">
+			<name>Island Mediquip</name>
+			<address>750 Enterprise Crescent</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;750 Enterprise Crescent&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Island Mediquip</value>
+				</Data>
+				<Data name="Address">
+					<value>750 Enterprise Crescent</value>
+				</Data>
+				<Data name="city">
+					<value>Victoria V8Z 6R4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-231-7188</value>
+				</Data>
+				<Data name="email">
+					<value>victoria@islandmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.3874461 , 48.4855176</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p23">
+			<name>Island Mediquip</name>
+			<address>1063 Canada Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1063 Canada Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Island Mediquip</value>
+				</Data>
+				<Data name="Address">
+					<value>1063 Canada Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Duncan V9L 1V2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-231-7188</value>
+				</Data>
+				<Data name="email">
+					<value>duncan@islamdmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.7104457 , 48.7874918</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p24">
+			<name>Island Mediquip</name>
+			<address>#9-204 Old Island Highway</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;#9-204 Old Island Highway&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Island Mediquip</value>
+				</Data>
+				<Data name="Address">
+					<value>#9-204 Old Island Highway</value>
+				</Data>
+				<Data name="city">
+					<value>Courtenay V9N 3P1</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-231-7188</value>
+				</Data>
+				<Data name="email">
+					<value>courtenay@islandmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.9924654,49.6998894</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p25">
+			<name>Island Mediquip</name>
+			<address>2258 Dorman Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;2258 Dorman Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Island Mediquip</value>
+				</Data>
+				<Data name="Address">
+					<value>2258 Dorman Road</value>
+				</Data>
+				<Data name="city">
+					<value>Nanaimo V9S 5G2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-231-7188</value>
+				</Data>
+				<Data name="email">
+					<value>nanaimo@islandmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.9850903 , 49.1942686</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p26">
+			<name>Island Mediquip</name>
+			<address>859B -12th Avenuie</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;859B -12th Avenuie&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Island Mediquip</value>
+				</Data>
+				<Data name="Address">
+					<value>859B -12th Avenuie</value>
+				</Data>
+				<Data name="city">
+					<value>Campbell River V9W 7C5</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-231-7188</value>
+				</Data>
+				<Data name="email">
+					<value>campbellriver@islandmediquip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-125.2553877,50.026653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p27">
+			<name>Kootenay Columbia Home Medical Equipment</name>
+			<address>140-630 17th Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;140-630 17th Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Kootenay Columbia Home Medical Equipment</value>
+				</Data>
+				<Data name="Address">
+					<value>140-630 17th Street</value>
+				</Data>
+				<Data name="city">
+					<value>Castlegar V1N 4G7</value>
+				</Data>
+				<Data name="phone">
+					<value>1-866-515-7772</value>
+				</Data>
+				<Data name="email">
+					<value>info@kchomemedical.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.6560544 , 49.3011227</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p28">
+			<name>Kootenay Columbia Home Medical Equipment</name>
+			<address>250 Slater Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;250 Slater Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Kootenay Columbia Home Medical Equipment</value>
+				</Data>
+				<Data name="Address">
+					<value>250 Slater Road</value>
+				</Data>
+				<Data name="city">
+					<value>Cranbrook V1C 5C8</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-661-4022</value>
+				</Data>
+				<Data name="email">
+					<value>info@kchomemedical.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.7675567 , 49.5157272</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p29">
+			<name>BC Medequip</name>
+			<address>2230 Springer Avenue </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;2230 Springer Avenue &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>BC Medequip</value>
+				</Data>
+				<Data name="Address">
+					<value>2230 Springer Avenue </value>
+				</Data>
+				<Data name="city">
+					<value>Burnaby V5B 3M7</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-988-5882</value>
+				</Data>
+				<Data name="email">
+					<value>service@bcmedequip.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.9874378 , 49.2637145</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p30">
+			<name>Abbey Medical Supplies</name>
+			<address>5- 31813 South Fraser Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;5- 31813 South Fraser Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Abbey Medical Supplies</value>
+				</Data>
+				<Data name="Address">
+					<value>5- 31813 South Fraser Way</value>
+				</Data>
+				<Data name="city">
+					<value>Abbotsford V2T 1V4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-251-8666</value>
+				</Data>
+				<Data name="email">
+					<value>info@abbeymedicalsupplies.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3424631 , 49.0481781</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p31">
+			<name>HME Mobility &amp; Accessibility</name>
+			<address>130-4011 Viking Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;130-4011 Viking Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>HME Mobility &amp; Accessibility</value>
+				</Data>
+				<Data name="Address">
+					<value>130-4011 Viking Way</value>
+				</Data>
+				<Data name="city">
+					<value>Richmond V6V 2K9</value>
+				</Data>
+				<Data name="phone">
+					<value>1-844-821-0075</value>
+				</Data>
+				<Data name="email">
+					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.0740829 , 49.1840524</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p32">
+			<name>HME Mobility &amp; Accessibility</name>
+			<address>104-3577 194th Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;104-3577 194th Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>HME Mobility &amp; Accessibility</value>
+				</Data>
+				<Data name="Address">
+					<value>104-3577 194th Street</value>
+				</Data>
+				<Data name="city">
+					<value>Surrey V3S 0L5 </value>
+				</Data>
+				<Data name="phone">
+					<value>1-844-821-0075</value>
+				</Data>
+				<Data name="email">
+					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.6861152 , 49.0665545</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p33">
+			<name>HME Mobility &amp; Accessibility</name>
+			<address>102-2657 Wilfert Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;102-2657 Wilfert Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>HME Mobility &amp; Accessibility</value>
+				</Data>
+				<Data name="Address">
+					<value>102-2657 Wilfert Road</value>
+				</Data>
+				<Data name="city">
+					<value>Victoria V9B 5Z3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-844-821-0075</value>
+				</Data>
+				<Data name="email">
+					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.4681487 , 48.4472321</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p34">
+			<name>Macdonald's Home Healthcare</name>
+			<address>148 West 6th Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;148 West 6th Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Macdonald's Home Healthcare</value>
+				</Data>
+				<Data name="Address">
+					<value>148 West 6th Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Vancouver V5Y 1K6</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-276-5847</value>
+				</Data>
+				<Data name="email">
+					<value>info@macdonaldshhc.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.1083554 , 49.265383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p35">
+			<name>Macdonald's Home Healthcare</name>
+			<address>7640 Winston Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;7640 Winston Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Macdonald's Home Healthcare</value>
+				</Data>
+				<Data name="Address">
+					<value>7640 Winston Street</value>
+				</Data>
+				<Data name="city">
+					<value>Burnaby V5A 2H4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-276-5847</value>
+				</Data>
+				<Data name="email">
+					<value>burnaby@macdonaldshhc.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.9399038 , 49.2481195</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p36">
+			<name>1st Choice Mobility </name>
+			<address>108-663 Sumas Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;108-663 Sumas Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>1st Choice Mobility </value>
+				</Data>
+				<Data name="Address">
+					<value>108-663 Sumas Way</value>
+				</Data>
+				<Data name="city">
+					<value>Abbotsford V2S 7P4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-844-850-2344</value>
+				</Data>
+				<Data name="email">
+					<value>office@1stchoicemobility.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2653765 , 49.0139578</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p37">
+			<name>Tri  City Home Home Medical Equipment</name>
+			<address>1110-1368 Kingsway Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1110-1368 Kingsway Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Tri  City Home Home Medical Equipment</value>
+				</Data>
+				<Data name="Address">
+					<value>1110-1368 Kingsway Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Port Coquitlam V3C 6P4</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-945-0965</value>
+				</Data>
+				<Data name="email">
+					<value>hal@tricityhomemed.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.753552 , 49.2484794</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p38">
+			<name>Ability Healthcare Group </name>
+			<address>201-360 Edworthy Way </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;201-360 Edworthy Way &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Ability Healthcare Group </value>
+				</Data>
+				<Data name="Address">
+					<value>201-360 Edworthy Way </value>
+				</Data>
+				<Data name="city">
+					<value>New Westminster V3L 5T8</value>
+				</Data>
+				<Data name="phone">
+					<value>1-888-540-2270</value>
+				</Data>
+				<Data name="email">
+					<value>none</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.8846157 , 49.2237769</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p39">
+			<name>A-1 Wheelchairs Unlimited</name>
+			<address>111-6360 202 Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;111-6360 202 Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>A-1 Wheelchairs Unlimited</value>
+				</Data>
+				<Data name="Address">
+					<value>111-6360 202 Street</value>
+				</Data>
+				<Data name="city">
+					<value>Langley V2Y 1N2</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-665-0098</value>
+				</Data>
+				<Data name="email">
+					<value>info@a-1wheelchairs.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.6627637 , 49.118238</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p40">
+			<name>Regency Medical Supplies</name>
+			<address>4437 Canada Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;4437 Canada Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Regency Medical Supplies</value>
+				</Data>
+				<Data name="Address">
+					<value>4437 Canada Way</value>
+				</Data>
+				<Data name="city">
+					<value>Burnaby V5G 1J3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-663-1012</value>
+				</Data>
+				<Data name="email">
+					<value>bill@regencymed.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.0055636 , 49.2547137</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p41">
+			<name>Davies Home Healthcare</name>
+			<address>1417 St. Georges Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;1417 St. Georges Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Davies Home Healthcare</value>
+				</Data>
+				<Data name="Address">
+					<value>1417 St. Georges Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>North Vancouver V7L 3J3</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-585-9211 </value>
+				</Data>
+				<Data name="email">
+					<value>ortho@davieshh.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.0697345 , 49.321303</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p42">
+			<name>Davies Home Healthcare</name>
+			<address>119-1201 Commercial Way</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;119-1201 Commercial Way&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Davies Home Healthcare</value>
+				</Data>
+				<Data name="Address">
+					<value>119-1201 Commercial Way</value>
+				</Data>
+				<Data name="city">
+					<value>Squamish V8B 0V1</value>
+				</Data>
+				<Data name="phone">
+					<value>1-844-227-5198</value>
+				</Data>
+				<Data name="email">
+					<value>squamishhc@davieshh.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.1532768 , 49.7237527</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p43">
+			<name>The Rehab Shop</name>
+			<address>4-45905 Yale Road </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;4-45905 Yale Road &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>The Rehab Shop</value>
+				</Data>
+				<Data name="Address">
+					<value>4-45905 Yale Road </value>
+				</Data>
+				<Data name="city">
+					<value>Chilliwack V2P 2M6</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-309-1099</value>
+				</Data>
+				<Data name="email">
+					<value>info@therehabshop.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.9583882 , 49.1675973</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p44">
+			<name>The Comfort Zone</name>
+			<address>4408 China Creek Road</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;4408 China Creek Road&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>The Comfort Zone</value>
+				</Data>
+				<Data name="Address">
+					<value>4408 China Creek Road</value>
+				</Data>
+				<Data name="city">
+					<value>Port Alberni V9Y 1P9</value>
+				</Data>
+				<Data name="phone">
+					<value>1-833-268-5235</value>
+				</Data>
+				<Data name="email">
+					<value>info@albernicomfortzone.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.7996084 , 49.2322698</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p45">
+			<name>Northcoast Home Medical Equipment</name>
+			<address>4712 Keith Avenue</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;4712 Keith Avenue&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Northcoast Home Medical Equipment</value>
+				</Data>
+				<Data name="Address">
+					<value>4712 Keith Avenue</value>
+				</Data>
+				<Data name="city">
+					<value>Terrace V8G 4K1</value>
+				</Data>
+				<Data name="phone">
+					<value>1-866-638-1301</value>
+				</Data>
+				<Data name="email">
+					<value>terrace@motioncares.ca</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-128.5941569 , 54.5137468</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p46">
+			<name>Medichair Northern BC</name>
+			<address>849 2nd Avenue </address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;849 2nd Avenue &lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Medichair Northern BC</value>
+				</Data>
+				<Data name="Address">
+					<value>849 2nd Avenue </value>
+				</Data>
+				<Data name="city">
+					<value>Prince George V2L 3A6</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-330-2772</value>
+				</Data>
+				<Data name="email">
+					<value>princegeorge@medichair.com</value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.7380333 , 53.9155278</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="p47">
+			<name>Medichair Northern BC</name>
+			<address>664 Front Street</address>
+			<Snippet maxLines="0"/>
+			<description>&lt;p&gt;664 Front Street&lt;/p&gt;</description>
+			<ExtendedData>
+				<Data name="SupplierName">
+					<value>Medichair Northern BC</value>
+				</Data>
+				<Data name="Address">
+					<value>664 Front Street</value>
+				</Data>
+				<Data name="city">
+					<value>Quesnel V2J 2K8</value>
+				</Data>
+				<Data name="phone">
+					<value>1-800-330-2722</value>
+				</Data>
+				<Data name="email">
+					<value>princegeorge@medichair.com </value>
+				</Data>
+				<Data name="storefront">
+					<value>ME</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.5007571,52.9834051</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
+

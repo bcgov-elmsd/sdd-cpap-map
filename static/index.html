@@ -142,18 +142,14 @@ var meIcon = L.icon({
 
 //THIS IS WHERE YOU SET THE PINS
 //Run the kml layer
-var runLayer = omnivore.kml("/kml/pins.kml")
+var runLayer = omnivore.kml("/kml/pins-suppliers.kml")
   .on('ready',function(){
     map.fitBounds(runLayer.getBounds());
     runLayer.eachLayer(function(layer){
       //Assign icon based on style URL
       //STYLE URL is a property of the KML
         if (layer instanceof L.Marker){
-            if (layer.feature.properties.storefront === "ME"){
-              layer.setIcon(meIcon)
-            } else {
               layer.setIcon(servicesIcon)
-            }
         }
         console.log(layer.feature.properties)
       //Add the features we want to the popup
@@ -162,6 +158,29 @@ var runLayer = omnivore.kml("/kml/pins.kml")
     });
   }).addTo(map);
 //Finish KML layer
+
+var medical = omnivore.kml("/kml/pins-me.kml")
+  .on('ready',function(){
+    map.fitBounds(runLayer.getBounds());
+    runLayer.eachLayer(function(layer){
+      //Assign icon based on style URL
+      //STYLE URL is a property of the KML
+        if (layer instanceof L.Marker){
+            layer.setIcon(meIcon)
+        }
+        console.log(layer.feature.properties)
+      //Add the features we want to the popup
+      //THIS HAPPENS WHEN CLICK ON THE PIN
+      layer.bindPopup("<h2>"+layer.feature.properties.SupplierName+"</h2><p>" + layer.feature.properties.Address + " , " + layer.feature.properties.city + "</p><p>" + layer.feature.properties.phone + "</p><p>" + layer.feature.properties.email + "</p>");
+    });
+  }).addTo(map);
+//Finish KML layer
+
+var overlays = {
+  "CPAP" : runLayer,
+  "ME" : medical
+}  
+L.control.layers(null,overlays).addTo(map);
 
 //Add search for the pins only
 //searches by catcment name
